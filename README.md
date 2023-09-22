@@ -1,3 +1,38 @@
+feces, bile, phlegm, pus, blood, sweat, fat, tears, skin-oil, saliva, mucus, fluid in the joints, urine.
+
+spoiled, selfish, unkind
+
+haggard
+
+in return for
+
+sneer at
+
+beauty is found within
+
+repulse
+
+turn sb away
+
+enchantress
+
+hideous
+
+ashamed of
+
+petal
+
+place powerful spell on the castle
+
+who could ever learn to love a beast?
+
+be doomed to
+
+where are you off to?
+
+not since yesterday
+
+
 Through thick and thin
 
 No peeking
