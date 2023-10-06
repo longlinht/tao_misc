@@ -1,193 +1,65 @@
-Chat history
-New Chat
-Close sidebar
-Today
-English
 
+# meaning of 'Laying your pearls before swine will only bring you trouble
+an idiomatic expression that means sharing something valuable or important with someone who cannot appreciate its worth or who will not treat it with the respect it deserves.
 
-Previous 30 Days
-Tech
-I don't have access to current news or events as my knowledge was last updated in September 2021. However, I'll do my best to pr
-Life
-August
-Vocabulary
-May
-History
-Upgrade to Plus
+# made him the toast of England
+means that someone has become extremely popular and admired in England, usually due to their achievements or accomplishments. 
 
-User
-hetaoof@gmail.com
-Default (GPT-3.5)
+# no visiting dignitary would think of leaving Venice without paying him a call.
+means that there is a person in Venice who is so influential, important, or well-connected that any visitor of high status would consider it necessary or expected to visit and pay their respects to this person before leaving the city. 
 
-User
-what's meaning of 'Laying your pearls before swine will only bring you trouble.'
-ChatGPT
-The phrase "laying your pearls before swine will only bring you trouble" is an idiomatic expression that means sharing something valuable or important with someone who cannot appreciate its worth or who will not treat it with the respect it deserves. It is a cautionary statement that advises against wasting one's time and effort on people who do not understand or value what they are being given. The phrase is often used to discourage people from sharing their talents, ideas, or resources with those who are not worthy of them, as it can lead to disappointment, frustration, and even harm.
+# come out of the blue
+means to happen unexpectedly or suddenly, without any warning or prior indication. 
 
+# cold shoulder
+is used to describe a situation where someone is being ignored or treated with indifference, often as a form of disapproval or rejection.
 
+# anted up
+is an idiomatic expression that comes from the game of poker. In poker, to "ante up" means to contribute a certain amount of money to the pot before the start of each hand.
 
+# lodestone subtly draws iron to itself
+refers to the natural magnetic properties of a lodestone, which is a type of magnetite that is naturally magnetized. The phrase suggests that the lodestone has the power to attract iron to itself, even when this attraction is not immediately apparent or visible.
 
-User
-made him the toast of England
-ChatGPT
-The phrase "made him the toast of England" means that someone has become extremely popular and admired in England, usually due to their achievements or accomplishments. The phrase comes from the old tradition of raising a toast to honor someone, and in this case, the person has become so well-liked and respected that they are the subject of many toasts and celebrations. This expression is often used to describe people who have achieved great success in their field, such as artists, athletes, or politicians, and are widely celebrated and recognized for their achievements.
+# angling for titles
+is often used to describe a situation where someone is seeking to obtain a formal or honorary title, such as a knighthood, a peerage, or a similar recognition. The phrase "angling" suggests that the person is pursuing this goal in a strategic or indirect manner, much like a fisherman who is trying to catch fish by casting a line and waiting patiently for a bite. This can involve lobbying or currying favor with influential people, making significant charitable donations, or demonstrating exceptional service or achievement in a particular field. The phrase can also be used in a more general sense to describe someone who is seeking recognition, status, or prestige through various means, often with a degree of self-promotion or manipulation involved.
 
-
-
-
-User
-no visiting dignitary would think of leaving Venice without paying him a call.
-ChatGPT
-The phrase "no visiting dignitary would think of leaving Venice without paying him a call" means that there is a person in Venice who is so influential, important, or well-connected that any visitor of high status would consider it necessary or expected to visit and pay their respects to this person before leaving the city. This statement suggests that this person is highly respected and has a significant social or political influence in Venice. The phrase may also imply that visiting this person is an essential part of the Venetian experience, and a failure to do so would be seen as a missed opportunity or a lack of proper etiquette.
-
-
-
-
-User
-come out of the blue
-ChatGPT
-The phrase "come out of the blue" means to happen unexpectedly or suddenly, without any warning or prior indication. It can refer to a surprising event, news, or situation that appears to come from nowhere, as if out of the blue sky. This expression suggests that the occurrence is unpredictable and catches people off guard, as if it were a bolt from the blue. It is often used to describe a situation where something completely unexpected happens or when someone does something that is unexpected and surprising.
-
-
-
-
-User
-cold shoulder
-ChatGPT
-The phrase "cold shoulder" is used to describe a situation where someone is being ignored or treated with indifference, often as a form of disapproval or rejection. When someone gives you the cold shoulder, they are deliberately ignoring you, being aloof or distant, and showing little or no interest in engaging with you. This phrase can be used in various situations, such as in social situations when someone is not welcomed or acknowledged, or in business when someone is being excluded or marginalized. The term is believed to have originated from the practice of serving a cold shoulder of beef to unwelcome guests, signifying their unwelcome presence.
-
-
-
-
-User
-anted up
-ChatGPT
-The phrase "anted up" is an idiomatic expression that comes from the game of poker. In poker, to "ante up" means to contribute a certain amount of money to the pot before the start of each hand. In a broader sense, the phrase means to contribute one's fair share or to pay what is owed. It can also mean to make a necessary payment or investment to participate in something, such as a business venture or a group activity. Outside of the context of poker, the phrase can be used in a variety of situations where someone needs to contribute something, whether it be money, effort, or resources, in order to participate or be involved.
-
-
-
-
-User
-lodestone subtly draws iron to itself
-ChatGPT
-The phrase "lodestone subtly draws iron to itself" refers to the natural magnetic properties of a lodestone, which is a type of magnetite that is naturally magnetized. The phrase suggests that the lodestone has the power to attract iron to itself, even when this attraction is not immediately apparent or visible. This is because the magnetism of the lodestone is subtle and not easily observable, but it still exerts a powerful influence over nearby iron objects. The phrase can be used as a metaphor for situations where something or someone exerts a subtle but powerful attraction or influence over others, drawing them closer or exerting a pull that is not easily resisted.
-
-
-
-
-User
-angling for titles
-ChatGPT
-The phrase "angling for titles" is often used to describe a situation where someone is seeking to obtain a formal or honorary title, such as a knighthood, a peerage, or a similar recognition. The phrase "angling" suggests that the person is pursuing this goal in a strategic or indirect manner, much like a fisherman who is trying to catch fish by casting a line and waiting patiently for a bite. This can involve lobbying or currying favor with influential people, making significant charitable donations, or demonstrating exceptional service or achievement in a particular field. The phrase can also be used in a more general sense to describe someone who is seeking recognition, status, or prestige through various means, often with a degree of self-promotion or manipulation involved.
-
-
-
-
-User
-dote on past
-ChatGPT
+# dote on past
 The phrase "dote on the past" means to excessively or sentimentally admire, cherish, or reminisce about the past, often to the point of neglecting or ignoring the present. When someone "dotes on the past," they may idealize the past and romanticize it as a time of greater happiness, success, or meaning, while overlooking or downplaying the challenges or problems that existed at the time. This phrase can be used to describe someone who is overly nostalgic or who tends to dwell on past experiences or memories, rather than focusing on the present or planning for the future. It can also imply that someone is resistant to change or new ideas, and prefers to hold onto what is familiar and comfortable, rather than embracing new opportunities or challenges.
 
-
-
-
-User
-under your spell
-ChatGPT
+# under your spell
 The phrase "under your spell" is often used to describe a situation where someone is completely enamored, infatuated, or captivated by another person. It suggests that the person has been deeply affected by the other's charm, charisma, or seductive powers, to the point where they feel powerless to resist or break free. When someone is "under your spell," they may be willing to do things they wouldn't normally do, make sacrifices, or go out of their way to please the other person. This phrase can be used in a romantic or non-romantic context, to describe situations where someone has a strong influence or power over another, often due to their charisma, personality, or persuasive abilities.
 
-
-
-
-User
-red-handed
-ChatGPT
+# red-handed
 The phrase "red-handed" is often used to describe someone who is caught in the act of doing something wrong, illegal, or unethical. When someone is caught "red-handed," it means that they have been caught in the midst of committing a crime, engaging in forbidden behavior, or doing something that they were not supposed to do. The phrase may have originated from the idea of having blood on one's hands, as if the person had been caught with their hands stained with the evidence of their wrongdoing. The phrase can be used in a variety of contexts, such as catching someone stealing, cheating, lying, or engaging in other illicit activities. It is often used to imply that the person has been caught in a clear and indisputable manner, leaving no room for denial or excuses.
 
-
-
-
-User
-double-crossing
-ChatGPT
+# double-crossing
 The phrase "double-crossing" is used to describe a situation where someone betrays or deceives another person who trusted them, often by breaking a promise, violating an agreement, or acting against their interests. When someone is "double-crossed," it means that they have been betrayed by someone they thought they could rely on, leading to feelings of disappointment, anger, or resentment. The term "double-crossing" implies a degree of duplicity, as the person who betrays the other is typically someone who was pretending to be on their side or to have their best interests at heart. The phrase can be used in a variety of contexts, such as in personal relationships, business dealings, or politics, to describe situations where someone breaks trust or acts in bad faith.
-
-
-
-
-User
-in chinese
-ChatGPT
 double-crossing can be translated into Mandarin Chinese as "双重背叛" (shuāng chóng bèi pàn), which literally means "double betrayal". Another possible translation is "欺骗" (qī piàn), which means "to deceive" or "to cheat".
 
-
-
-
-User
-bear him a son
-ChatGPT
+# bear him a son
 The phrase "bear him a son" means to give birth to a male child for a particular man, usually one's husband or partner. The phrase implies the desire or expectation to produce a male child, as male offspring were traditionally viewed as more desirable and valuable than female offspring in many cultures. In some cases, the pressure to "bear him a son" can be intense, particularly in societies where male heirs are seen as essential for carrying on the family name or lineage, inheriting property, or fulfilling other cultural or religious obligations. However, it is important to note that the phrase can be seen as gender-biased or problematic, as it reinforces traditional gender roles and expectations, and implies that a woman's value or worth is determined by her ability to produce male offspring.
 
-
-
-
-User
-donned and doffed
-ChatGPT
+# donned and doffed
 The phrases "donned" and "doffed" are used to describe the act of putting on and taking off clothing or accessories, respectively. "Donned" means to put on or wear something, while "doffed" means to remove or take off something, typically a hat or other headwear. The phrases are often used in formal or specialized contexts, such as in the military, where uniforms and headgear are an important part of the dress code. For example, soldiers may be instructed to "don their uniforms" or "doff their helmets" as part of their training or duties. The terms can also be used more generally to describe the act of putting on or taking off any type of clothing or accessory, such as "donning a coat" or "doffing a pair of gloves."
 
-
-
-
-User
-modus operandi
-ChatGPT
+#modus operandi
 "Modus operandi" is a Latin phrase that translates to "method of operating" in English. The phrase is commonly used to refer to a person's or organization's characteristic way of doing things, particularly in the context of criminal investigations or other forms of detective work. A person's modus operandi, often abbreviated as "MO," refers to their typical pattern of behavior, habits, or techniques when carrying out a particular activity, such as committing a crime or solving a problem. For example, a thief may have a particular MO when breaking into homes, such as targeting houses that are unoccupied during the day, or using a certain type of tool to gain entry. Law enforcement officials may use an individual's MO to help identify suspects, anticipate their next move, or build a case against them. The term is also used more broadly in other fields to refer to someone's established way of doing things, whether in business, science, or other areas of endeavor.
 
-
-
-
-User
-disgraced and demoted
-ChatGPT
+# disgraced and demoted
 The phrases "disgraced" and "demoted" both refer to a reduction in status or position, but with different connotations. "Disgraced" implies a loss of respect, honor, or reputation due to a wrongdoing, mistake, or scandal. A person who is "disgraced" may have done something shameful, unethical, or illegal, and their actions have led to public condemnation or disapproval. For example, a politician who is caught accepting bribes or engaging in other corrupt activities may be "disgraced" and suffer a loss of public trust and respect.
 
 On the other hand, "demoted" refers to a reduction in rank, position, or responsibility within an organization or company, typically as a result of poor performance, restructuring, or other factors. A person who is "demoted" may still retain their reputation and honor, but their career prospects or earning potential may be affected. For example, an employee who consistently fails to meet their job requirements or violates company policies may be "demoted" to a lower-level position with less authority or fewer responsibilities.
 
 Overall, while both "disgraced" and "demoted" refer to a loss of status or position, "disgraced" is typically associated with a tarnished reputation or public humiliation, while "demoted" is more closely linked to a professional setback or reduction in career advancement.
-
-
-
-
-User
-in chinese
-ChatGPT
 "Disgraced" can be translated into Mandarin Chinese as "失势" (shī shì), which means to lose power, influence or status. "Demoted" can be translated as "降职" (jiàng zhí), which means to be demoted or to have one's rank or position lowered.
 
-
-
-
-User
-the perils of hubris
-ChatGPT
+#the perils of hubris
 "The perils of hubris" refers to the dangers that come from excessive pride or arrogance, particularly in the context of Greek mythology and tragedy. Hubris was a concept in ancient Greek culture that referred to an overbearing sense of pride or self-confidence that often led to disastrous consequences. In Greek tragedy, characters who displayed hubris were often punished by the gods for their arrogance and were brought down by their own excessive pride.
 
 The phrase "the perils of hubris" can be used more generally to refer to the dangers of overconfidence or arrogance in any context, such as politics, business, or personal relationships. When individuals or groups become too self-assured and believe that they are invincible, they may engage in risky or reckless behaviors that ultimately lead to their downfall. This can include ignoring warning signs, dismissing the advice of others, or failing to consider the potential consequences of their actions. The phrase serves as a warning to individuals and groups to remain humble and grounded, and to avoid the pitfalls of excessive pride and arrogance.
-
-
-
-
-User
-in chinese
-ChatGPT
 "The perils of hubris" can be translated into Mandarin Chinese as "傲慢的危险" (ào màn de wēi xiǎn), which means the danger of arrogance or the peril of excessive pride.
 
-
-
-
-User
-paid no heed to
-ChatGPT
+# paid no heed to
 The phrase "paid no heed to" means to ignore or disregard something, often despite it being important or significant. When someone "pays no heed to" a warning, advice, or instruction, they do not take it seriously or consider it important, which can lead to negative consequences.
 
 For example, if a driver pays no heed to the warning signs about icy roads and continues to drive at a high speed, they are putting themselves and others in danger. Similarly, if a student pays no heed to their teacher's advice to study for an upcoming exam, they may not perform well and receive a lower grade.
@@ -196,12 +68,7 @@ The phrase can also be used in a more general sense to refer to someone who is n
 
 In Mandarin Chinese, "paid no heed to" can be translated as "未予理会" (wèi yǔ lǐ huì) or "无视" (wú shì).
 
-
-
-
-User
-tinkering with tradition
-ChatGPT
+# tinkering with tradition
 "Tinkering with tradition" refers to making small, incremental changes to long-standing customs or practices. The phrase suggests that these changes may not be significant enough to fundamentally alter the tradition, but they may still have an impact on how it is perceived or carried out.
 
 For example, if a chef decides to add a new ingredient to a traditional recipe, they may be "tinkering with tradition." Similarly, if a company modifies the design of a product that has been around for many years, they may be making small changes to the tradition of that product.
@@ -210,12 +77,7 @@ The phrase can also have a negative connotation, suggesting that the changes bei
 
 In Mandarin Chinese, "tinkering with tradition" can be translated as "对传统进行改动" (duì chuán tǒng jìn xíng gǎi dòng) or "改变传统" (gǎi biàn chuán tǒng).
 
-
-
-
-User
-pining for
-ChatGPT
+# pining for
 "Pining for" is a phrase that describes a deep longing or yearning for someone or something that is absent or out of reach. When someone is "pining for" someone or something, they are experiencing a strong emotional desire to be reunited with that person or thing.
 
 For example, if someone has recently broken up with their partner and they are constantly thinking about and missing them, they may be "pining for" their ex. Similarly, if someone has moved away from their hometown and is feeling homesick, they may be "pining for" the familiar surroundings and people they left behind.
@@ -224,12 +86,7 @@ The phrase can also be used in a more general sense to describe a longing for so
 
 In Mandarin Chinese, "pining for" can be translated as "渴望" (kě wàng), "思念" (sī niàn), or "向往" (xiàng wǎng).
 
-
-
-
-User
-courtly love
-ChatGPT
+# courtly love
 "Courtly love" refers to a medieval European concept of love that originated in the courtly circles of the aristocracy during the Middle Ages. It is a type of love that is idealized, often chaste, and often involves a knightly or nobleman's admiration and devotion to a lady of higher social status.
 
 The concept of courtly love is characterized by a set of conventions and rules that governed the behavior of those who engaged in it. These conventions included the notion of love as a divine force, the idea of the lover as a humble servant of the beloved, and the importance of courtly etiquette in expressing one's feelings.
@@ -238,12 +95,7 @@ In literature, courtly love was often portrayed as a kind of spiritual or emotio
 
 In Mandarin Chinese, "courtly love" can be translated as "骑士之爱" (qí shì zhī ài) or "宫廷之爱" (gōng tíng zhī ài).
 
-
-
-
-User
-tilled the soil
-ChatGPT
+# tilled the soil
 "Tilled the soil" is a phrase that refers to the act of preparing land for planting crops by breaking up the soil and making it suitable for growing plants. When someone "tills the soil," they are typically using a tool such as a plow or a hoe to turn over the soil and create furrows or rows for planting.
 
 Tilling the soil is an important step in agriculture and gardening, as it helps to improve soil quality, remove weeds, and create a favorable environment for plant growth. It is typically done before planting and can also involve the addition of fertilizers or other soil amendments to improve plant nutrition.
@@ -252,12 +104,7 @@ The phrase "tilled the soil" can also be used metaphorically to refer to the act
 
 In Mandarin Chinese, "tilled the soil" can be translated as "耕地" (gēng dì) or "翻土" (fān tǔ).
 
-
-
-
-User
-sacrament
-ChatGPT
+# sacrament
 "Sacrament" is a term that refers to a religious or sacred rite or ceremony that is believed to have spiritual significance. The term is most commonly associated with the Christian church, where sacraments are seen as outward signs of inward grace, conveying God's blessing and forgiveness to those who participate in them.
 
 The Catholic Church recognizes seven sacraments: baptism, confirmation, the Eucharist, penance, anointing of the sick, holy orders, and marriage. Each sacrament is believed to be a channel of divine grace, conveying God's love and mercy to those who receive them.
@@ -266,12 +113,7 @@ The concept of sacrament is also present in other religious traditions, such as 
 
 In Mandarin Chinese, "sacrament" can be translated as "圣礼" (shèng lǐ) or "圣事" (shèng shì).
 
-
-
-
-User
-Orphism
-ChatGPT
+# Orphism
 Orphism was a French art movement that emerged around 1910 and was primarily concerned with the exploration of color and form. The term "Orphism" was coined by the poet Guillaume Apollinaire and is derived from the name of the ancient Greek mythological figure Orpheus, who was associated with music and poetry.
 
 Orphist paintings are characterized by their use of bright, vibrant colors and geometric shapes, often arranged in a rhythmic, abstract composition. The movement was heavily influenced by the work of the French painter Robert Delaunay, who developed a style he called "simultaneism," which sought to convey the experience of movement and light through color.
@@ -282,12 +124,8 @@ The Orphist movement had a significant impact on the development of abstract art
 
 In Mandarin Chinese, "Orphism" can be translated as "奥菲斯主义" (ào fēi sī zhǔ yì).
 
+# Orpheus
 
-
-
-User
-Orpheus
-ChatGPT
 In Greek mythology, Orpheus was a legendary musician, poet, and prophet. He was the son of the god Apollo and the muse Calliope, and was said to have been gifted with a beautiful singing voice and the ability to charm even the gods with his music.
 
 The most famous story associated with Orpheus is his journey to the underworld in search of his wife, Eurydice. When Eurydice died from a snake bite, Orpheus was so grief-stricken that he traveled to the underworld to try to bring her back to life. He used his music to charm the god of the underworld, Hades, and his wife, Persephone, and was allowed to take Eurydice back to the world of the living, on the condition that he did not look back at her until they had left the underworld. Unfortunately, Orpheus could not resist the urge to look back, and when he did, Eurydice was lost to him forever.
@@ -296,115 +134,66 @@ Orpheus is often seen as a symbol of the power of music and poetry to move and i
 
 In Mandarin Chinese, "Orpheus" can be translated as "俄耳甫斯" (é ěr fǔ sī).
 
-
-
-
-User
-sow his wild oats
-ChatGPT
+# sow his wild oats
 The phrase "sow one's wild oats" is used to describe a person, usually a young man, who engages in reckless, promiscuous, or irresponsible behavior, typically with regard to sex or relationships. It is often used to suggest that the person is going through a phase of youthful indiscretion or rebellion before settling down and taking on adult responsibilities.
 
 The phrase comes from the image of a farmer sowing wild oat seeds, which are difficult to control and can spread easily. In this context, the phrase suggests that the young man is engaging in behavior that is difficult to control and may have unpredictable consequences.
 
 In Mandarin Chinese, "sow one's wild oats" can be translated as "撒野" (sǎ yě), which literally means "to sow wildness."
 
-
-
-
-User
-pulled up short
-ChatGPT
+# pulled up short
 The phrase "pulled up short" is often used to describe a sudden and abrupt halt in progress or movement, usually due to an unexpected obstacle, realization, or change in circumstances. It can also be used figuratively to describe a sudden change in thought, speech, or behavior.
 
 The phrase "pulled up short" comes from horseback riding, where it is used to describe the sudden stopping of a horse before reaching an obstacle or due to the rider's commands.
 
 In Mandarin Chinese, "pulled up short" can be translated as "猛然停下" (měng rán tíng xià), which literally means "suddenly stop."
 
-
-
-
-User
-warmly concur
-ChatGPT
+# warmly concur
 The phrase "warmly concur" is often used to express strong agreement or approval of an idea, proposal, or statement. "Warmly" in this context implies enthusiasm, sincerity, and a positive emotional response.
 
 In Mandarin Chinese, "warmly concur" can be translated as "热情赞同" (rè qíng zàn tóng), which literally means "warmly agree and approve."
 
-
-
-
-User
-what made her tick
-ChatGPT
+# what made her tick
 The phrase "what made her tick" is often used to ask about the underlying motivations, personality, or characteristics of a person that drive their behavior or actions. It seeks to understand the inner workings of a person and what makes them unique.
 
 The phrase "what makes her tick" comes from the idea of a clock or watch, where the ticking sound represents the regular, predictable movement of the gears that keep time. By asking what makes a person tick, we are seeking to understand the internal mechanisms that drive their behavior in the same way that the ticking of a clock represents its internal workings.
 
 In Mandarin Chinese, "what makes her tick" can be translated as "她的内在动力是什么" (tā de nèi zài dòng lì shì shén me), which literally means "what is her inner motivation."
 
-
-
-
-User
-petered out
-ChatGPT
+# petered out
 The phrase "petered out" is often used to describe a gradual reduction or decline in the intensity, importance, or quantity of something until it eventually comes to an end. This can refer to a wide range of situations, such as a conversation that fizzles out, a business venture that fails to gain momentum, or a relationship that loses its spark.
 
 The origin of the phrase is unclear, but it is believed to have originated in the early 19th century and may be related to the use of the name "Peter" as a slang term for exhaustion or fatigue.
 
 In Mandarin Chinese, "petered out" can be translated as "逐渐消失" (zhú jiàn xiāo shī), which literally means "gradually disappear."
 
-
-
-
-User
-courtier-like effect
-ChatGPT
+# courtier-like effect
 The phrase "courtier-like effect" is not a commonly used English expression, and it's unclear what it might refer to without additional context. "Courtier" typically refers to a member of a royal court or someone who seeks favor with a person in power, so it's possible that the phrase could refer to an effect that is intended to impress or flatter someone in a position of authority.
 
 Without more information, it's difficult to provide a more specific explanation or translation into Mandarin Chinese.
 
-
-
-
-User
-flecked with black silex
-ChatGPT
+# flecked with black silex
 "Flecked with black silex" describes something that has black flecks or spots caused by the presence of silex, which is another word for flint. Silex is a hard, sedimentary rock that is often found in deposits that also contain fossils.
 
 The phrase can be used to describe a variety of things, but it is most commonly used in reference to stones or rocks that have a distinctive appearance due to the presence of black silex. For example, a gravel driveway or garden path might be described as "flecked with black silex" if the stones used in its construction have visible black spots.
 
 In Mandarin Chinese, "flecked with black silex" can be translated as "布满黑色硅石的斑点" (bù mǎn hēi sè guī shí de bān diǎn).
 
-
-
-
-User
-railing of the verandah
-ChatGPT
+# railing of the verandah
 The "railing of the verandah" refers to the barrier or fence that runs along the edge of a covered porch or balcony that extends from the side of a building. Verandahs are typically found in warm climates and are designed to provide shade and shelter from the sun and rain, while allowing for natural ventilation.
 
 The railing of a verandah serves both a functional and aesthetic purpose, providing a safety barrier to prevent people from falling off the edge, as well as adding to the visual appeal of the structure. Verandah railings can be made of a variety of materials, including wood, metal, and vinyl, and can feature decorative elements such as balusters or posts.
 
 In Mandarin Chinese, "railing of the verandah" can be translated as "走廊的栏杆" (zǒu láng de lán gān).
 
-
-
-
-User
-attack has not even registered
-ChatGPT
+# attack has not even registered
 The phrase "attack has not even registered" means that a person is not affected or bothered by an attack or criticism that has been directed towards them. It suggests that the person is either resilient to such attacks or is not taking them seriously.
 
 For example, if someone insults another person but that person doesn't react or seem to be upset by the insult, one could say that the insult "has not even registered" with them.
 
 In Mandarin Chinese, "attack has not even registered" can be translated as "攻击甚至没有被注意到" (gōng jī shèn zhì méi yǒu bèi zhù yì dào).
 
-
-
-
-User
-slapstick farce
+# slapstick farce
 ChatGPT
 Slapstick farce is a type of comedy that relies on physical humor and exaggerated, often absurd, actions to create laughs. It usually involves characters engaging in ridiculous, often painful, actions that are meant to be funny. The term "slapstick" refers to a type of physical comedy that involves hitting or striking someone or something for comedic effect.
 
@@ -414,12 +203,7 @@ Slapstick farce has a long history in theater, film, and television, and has bee
 
 In Mandarin Chinese, "slapstick farce" can be translated as "滑稽闹剧" (huá jī nào jù).
 
-
-
-
-User
-whine and gripe
-ChatGPT
+# whine and gripe
 The phrases "whine and gripe" are used together to describe someone who complains excessively or in a persistent and annoying way.
 
 "Whine" refers to a high-pitched, nasal tone of voice that is often used when someone is complaining. "Gripe" refers to the act of complaining or grumbling about something, often in a persistent or annoying way.
@@ -430,168 +214,98 @@ For example, "My colleague is always whining and griping about how busy she is, 
 
 In Mandarin Chinese, "whine and gripe" can be translated as "哀叹与抱怨" (āi tàn yǔ bào yuàn) or "发牢骚" (fā láo sāo).
 
-
-
-
-User
-trellis-frame
-ChatGPT
+# trellis-frame
 A trellis-frame is a type of structure used in engineering and construction. It is typically made up of a network of thin, interconnected metal bars or tubes that are arranged in a lattice pattern to create a strong and lightweight framework.
 
 Trellis-frames are commonly used in the construction of bicycles, motorcycles, and other vehicles where strength and lightweight are important factors. They are also used in building construction for support structures, such as bridges and towers.
 
 In Mandarin Chinese, "trellis-frame" can be translated as "格框架" (gé kuàng jià) or "网架结构" (wǎng jià jié gòu).
 
-
-
-
-User
-viselike talons
-ChatGPT
+# viselike talons
 "Viselike talons" is a descriptive phrase used to describe sharp and powerful claws that are capable of gripping or grasping tightly, as if in a vise or clamp. "Viselike" suggests a strong, unyielding grip, while "talons" specifically refers to the sharp claws of birds of prey and other animals.
 
 This phrase is often used in literature and other forms of creative writing to create vivid imagery and convey a sense of danger or threat. For example, "The eagle swooped down from the sky, its viselike talons extended and ready to strike."
 
 In Mandarin Chinese, "viselike talons" can be translated as "夹式爪子" (jiā shì zhuǎ zi) or "卡紧的爪子" (kǎ jǐn de zhuǎ zi).
 
-
-
-
-User
-hitch in your endgame
-ChatGPT
+# hitch in your endgame
 The phrase "hitch in your endgame" is a metaphorical expression that means a problem or obstacle has arisen near the end of a plan or strategy, potentially causing delays or setbacks in achieving the intended outcome. The term "endgame" typically refers to the final stages of a game or competition, where the outcome is determined, and a "hitch" refers to a snag or obstacle that impedes progress.
 
 This phrase is often used in business, sports, and other competitive environments to describe a setback or challenge that must be overcome to achieve success. For example, "We had a great plan for the project, but a last-minute change in regulations put a hitch in our endgame."
 
 In Mandarin Chinese, "hitch in your endgame" can be translated as "终局中的阻碍" (zhōng jú zhōng de zǔ ài) or "末局的阻碍" (mò jú de zǔ ài).
 
-
-
-
-User
-bare your fangs
-ChatGPT
+# bare your fangs
 The phrase "bare your fangs" is a metaphorical expression that means to show aggressive behavior or hostility towards someone, usually in a threatening or intimidating manner. It is a figurative reference to the way that animals, such as dogs or wolves, show their teeth when they feel threatened or want to attack.
 
 This phrase is often used in situations where someone feels the need to defend themselves or assert their dominance over others, such as in a confrontation or power struggle. For example, "The company's CEO bared his fangs at the board meeting when they questioned his decision."
 
 In Mandarin Chinese, "bare your fangs" can be translated as "露出獠牙" (lù chū láo yá) or "展示利齿" (zhǎn shì lì chǐ).
 
-
-
-
-User
-stuck to his guns
-ChatGPT
+# stuck to his guns
 The phrase "stuck to his guns" is a metaphorical expression that means to remain firm in one's beliefs, opinions, or decisions, even in the face of opposition, criticism, or pressure to change. The phrase originated from the military, where soldiers were expected to stand their ground and maintain their position, even in the midst of enemy fire.
 
 This phrase is often used to describe someone who is determined and resolute, and who refuses to back down or compromise on their principles. For example, "Despite facing intense criticism from the media, the politician stuck to his guns on his controversial policy."
 
 In Mandarin Chinese, "stuck to his guns" can be translated as "坚持自己的立场" (jiān chí zì jǐ de lì chǎng) or "坚持己见" (jiān chí jǐ jiàn).
 
-
-
-
-User
-reel them in
-ChatGPT
+# reel them in
 The phrase "reel them in" is a metaphorical expression that means to attract or lure someone, typically in a gradual or subtle way, and persuade them to become interested or involved in something. The phrase is derived from the act of fishing, where a fisherman uses a fishing rod to "reel in" a fish that has taken the bait.
 
 This phrase is often used in marketing or sales contexts, where a company or individual is trying to attract customers or clients. For example, "The company's marketing campaign was designed to reel in new customers with special promotions and discounts."
 
 In Mandarin Chinese, "reel them in" can be translated as "吸引他们" (xī yǐn tā men) or "诱惑他们" (yòu huò tā men).
 
-
-
-
-User
-toadying up to
-ChatGPT
+# toadying up to
 The phrase "toadying up to" means to flatter or ingratiate oneself with someone in order to gain their favor or approval, often in a way that is insincere or obsequious. The term "toadying" comes from the idea of a toad, which is often seen as a symbol of flattery and sycophancy due to its tendency to puff itself up in order to appear more impressive.
 
 For example, "He's always toadying up to the boss, hoping for a promotion."
 
 In Mandarin Chinese, "toadying up to" can be translated as "讨好" (tǎo hǎo) or "奉承" (fèng chéng).
 
-
-
-
-User
-has in store
-ChatGPT
+# has in store
 The phrase "has in store" means what is being kept or saved for the future. It refers to the idea that something is being held or stored away, often with the implication that it will be revealed or used at a later time.
 
 For example, "I wonder what the future has in store for us," or "I have a feeling that this year has some surprises in store."
 
 In Mandarin Chinese, "has in store" can be translated as "储备" (chǔ bèi) or "准备好了" (zhǔn bèi hǎo le).
 
-
-
-
-User
-party animal extraordinaire
-ChatGPT
+# party animal extraordinaire
 The phrase "party animal extraordinaire" is used to describe someone who is known for their love of partying and socializing, often to an extreme degree. The term "extraordinaire" emphasizes that the person is exceptional or extraordinary in this regard, and implies a sense of admiration or amusement at their ability to party so hard.
 
 For example, "He's a party animal extraordinaire, always the last one to leave the club," or "She's a real social butterfly, a party animal extraordinaire!"
 
 In Mandarin Chinese, "party animal extraordinaire" can be translated as "狂欢派对之王" (kuáng huān pài duì zhī wáng) or "派对狂人" (pài duì kuáng rén).
 
-
-
-
-User
-prop up
-ChatGPT
+# prop up
 The phrase "prop up" means to provide support or assistance to something or someone that is weak, failing, or in danger of collapsing. It can also refer to physically supporting an object or structure to keep it upright.
 
 For example, "The government is trying to prop up the struggling economy with a stimulus package," or "She used a stick to prop up the sagging fence."
 
 In Mandarin Chinese, "prop up" can be translated as "支撑" (zhī chēng) or "支持" (zhī chí).
 
-
-
-
-User
-straddles the fence
-ChatGPT
+# straddles the fence
 The phrase "straddles the fence" means to be indecisive or neutral on an issue, not committing to one side or the other. It can also refer to someone who tries to maintain a position of neutrality or balance between two opposing views or groups.
 
 For example, "The politician is known for straddling the fence and never taking a clear stance on controversial issues," or "He tries to straddle the fence between his two friends who are arguing."
 
 In Mandarin Chinese, "straddle the fence" can be translated as "站在两边" (zhàn zài liǎng biān) or "保持中立" (bǎo chí zhōng lì).
 
-
-
-
-User
-wild shooting spree
-ChatGPT
+# wild shooting spree
 A "wild shooting spree" usually refers to a violent incident in which someone shoots repeatedly and uncontrollably, often resulting in multiple casualties or fatalities. It is a term used to describe a reckless, uncontrolled, and dangerous outburst of gunfire.
 
 For example, "The gunman went on a wild shooting spree at the shopping mall, injuring several people before being apprehended by the police," or "The movie portrayed a character going on a wild shooting spree, causing chaos and destruction in the city."
 
 In Mandarin Chinese, "wild shooting spree" can be translated as "疯狂枪击" (fēng kuáng qiāng jī) or "乱枪射击" (luàn qiāng shè jī).
 
-
-
-
-User
-a wary chumminess
-ChatGPT
+# a wary chumminess
 "Wary chumminess" describes a relationship or interaction between two people who appear to be friendly but are also cautious or guarded in their interactions. It suggests a degree of suspicion or wariness even as the parties are being cordial with each other.
 
 For example, "Despite their history of conflict, the two politicians displayed a wary chumminess during the press conference," or "The detective maintained a wary chumminess with the suspect in order to gain his trust and gather information."
 
 In Mandarin Chinese, "wary chumminess" can be translated as "小心翼翼的亲近感" (xiǎo xīn yì yì de qīn jìn gǎn).
 
-
-
-
-User
-a form of condescension
-ChatGPT
+# a form of condescension
 Condescension is a behavior or attitude that displays a sense of superiority or patronizing attitude towards others. It often involves talking down to someone, using a tone or language that suggests the speaker is more knowledgeable or superior.
 
 In the context of the phrase "a form of condescension," it means that someone is treating another person as inferior, and by doing so, is being condescending. This can manifest in various ways, such as speaking slower or using simpler language than necessary, or assuming that the other person needs help or guidance even if they do not.
@@ -600,132 +314,51 @@ For example, "The wealthy philanthropist's offer to help the homeless community 
 
 In Mandarin Chinese, "a form of condescension" can be translated as "一种居高临下的态度" (yī zhǒng jū gāo lín xià de tài du).
 
-
-
-
-User
-wear a laurel wreath
-ChatGPT
+# wear a laurel wreath
 "Wearing a laurel wreath" is an idiom that means to be a champion or a winner in a competition or a contest. In ancient Greece and Rome, the laurel wreath was a symbol of victory and was worn by athletes, poets, and other champions. Today, the expression is used figuratively to describe someone who has achieved great success or triumphed over a challenge.
 
-
-
-
-User
-a dire economic crisis
-ChatGPT
+# a dire economic crisis
 A "dire economic crisis" refers to a very severe and serious economic situation where a country, region or the world is experiencing significant financial turmoil, such as high unemployment rates, high levels of debt, and a significant decrease in economic growth. Such crises can have a wide-ranging impact on society, including increased poverty, social unrest, and political instability. Examples of dire economic crises include the Great Depression of the 1930s and the global financial crisis of 2008.
 
-
-
-
-User
-joy and glad tidings
-ChatGPT
+# joy and glad tidings
 "Joy and glad tidings" is an expression used to convey a message of happiness and good news. It can refer to any situation where someone is sharing positive information or announcing something that will bring joy and happiness to others. For example, during the holiday season, people may exchange cards and greetings with messages of "joy and glad tidings" to express their wishes for a happy and festive season. It can also be used in everyday conversation to express excitement about a positive event or development.
 
-
-
-
-User
-pounce on them boldly later
-ChatGPT
+# pounce on them boldly later
 "Pounce on them boldly later" is a phrase that implies a strategy of waiting for the right moment to take action. It suggests that one should not act hastily or impulsively, but rather bide their time and gather information before making a move. Once the timing is right and all the pieces are in place, then one can confidently "pounce" on the opportunity with boldness and determination. This phrase can be applied to various situations, such as in business, politics, or even in personal relationships where patience and strategic thinking can lead to greater success.
 
-
-
-
-User
-in chinese
-ChatGPT
-请问您需要中文翻译的是什么？
-
-
-
-
-User
-pounce on them boldly later
-ChatGPT
 稍后大胆地扑向他们。
 
+# shoo him away
 
-
-
-User
-shoo him away
-ChatGPT
 把他赶走。
 
+# contemplated backing out
 
-
-
-User
-what's meaning of 'contemplated backing out'
-ChatGPT
 "Contemplated backing out" means to consider withdrawing from or reneging on a previous agreement or commitment. It implies that the person is considering not going through with something they had previously agreed to do.
 
 
 
 
-User
-hem and haw
-ChatGPT
+# hem and haw
+
 The phrase "hem and haw" means to hesitate or speak evasively, especially when making a decision or giving an answer. It refers to the sound of someone clearing their throat or making vague noises while they try to come up with a response.
 
-
-
-
-User
-in chinese
-ChatGPT
-“咳嗽”和“哼哼”
-
-
-
-
-User
-scams and swindles
-ChatGPT
+# scams and swindles
 "Scams and swindles" refer to fraudulent schemes or activities that aim to deceive people to gain financial benefits. These can come in various forms such as investment scams, Ponzi schemes, phishing scams, and identity theft, among others. The main goal of scammers and swindlers is to take advantage of people's trust and ignorance, often resulting in the loss of significant amounts of money. It is important to be vigilant and cautious to avoid falling victim to these types of fraudulent activities.
 
-
-
-
-User
-dawned on
-ChatGPT
+# dawned on
 The phrase "dawned on" means to suddenly understand or realize something. It can be used in a sentence like, "It finally dawned on me why she was acting so strange."
 
-
-
-
-User
-wrest them away
-ChatGPT
+# wrest them away
 The phrase "wrest them away" means to forcibly take something from someone's possession or control, often by using physical force or persuasion. It can also refer to taking something away from a situation or context where it is firmly established.
 
-
-
-
-User
-laughed with glee
-ChatGPT
+# laughed with glee
 The phrase "laughed with glee" means to laugh with great pleasure or excitement. It implies that someone is experiencing a strong positive emotion, often in response to something they find amusing or enjoyable.
 
-
-
-
-User
-exotic incense wafted through special vents.
-ChatGPT
+# exotic incense wafted through special vents.
 The phrase "exotic incense wafted through special vents" suggests that a particular type of pleasant-smelling incense is being burned and the smoke is being directed through specially designed openings or ducts in the room or building to create a specific atmosphere or ambiance. This is often done in religious or spiritual contexts to create a sense of holiness or sanctity, but it can also be used for aesthetic or relaxation purposes.
 
-
-
-
-User
-hypochondria and the vapors
-ChatGPT
+# hypochondria and the vapors
 Hypochondria and the vapors refer to two different conditions, although they are both related to mental health.
 
 Hypochondria, also known as illness anxiety disorder, is a condition where a person experiences excessive worry or fear about having a serious illness, despite having no or very mild symptoms. The person may frequently check their body for signs of illness, seek medical attention repeatedly, and avoid situations that they believe might put them at risk of contracting an illness.
@@ -737,75 +370,20 @@ Both hypochondria and the vapors are now understood to be related to anxiety, de
 
 
 
-User
-beau monde
-ChatGPT
+# beau monde
+
 "Beau monde" is a French term that means "beautiful world" or "fashionable society." It typically refers to a social elite or the fashionable upper class, often associated with luxury, sophistication, and exclusivity.
 
-
-
-
-User
-a sedative and a purgative.
-ChatGPT
+# a sedative and a purgative.
 A sedative is a medication or substance that has a calming or tranquilizing effect on the body and can induce sleep. A purgative is a substance that helps to empty the bowels by inducing bowel movements. It is often used as a laxative to relieve constipation.
+"镇静剂和泻药" 
 
-
-
-
-User
-in chinese
-ChatGPT
-请问您需要翻译什么？
-
-
-
-
-User
-a sedative and a purgative.
-ChatGPT
-A sedative is a drug or medication that calms or soothes the nervous system, inducing a state of relaxation or sleep. It can be used to treat anxiety, insomnia, and other conditions.
-
-A purgative is a substance that promotes bowel movement and the elimination of fecal matter from the intestines. It is often used as a treatment for constipation or to prepare for medical procedures.
-
-
-
-
-User
-in chinese
-ChatGPT
-您好！有什么我可以帮忙的吗？
-
-
-
-
-User
-translate 'a sedative and a purgative.' into chinese
-ChatGPT
-"镇静剂和泻药" is the translation of "a sedative and a purgative" in Chinese.
-
-
-
-
-User
-foul-tasting concoctions
-ChatGPT
+# foul-tasting concoctions
 "foul-tasting concoctions" means unpleasant-tasting mixtures, usually referring to medicine or potions.
 
+# a veneer of profundity
 
-
-
-User
-a veneer of profundity
-ChatGPT
 The phrase "a veneer of profundity" means that something appears to be deep and meaningful on the surface but lacks true depth or insight upon closer examination.
-
-
-
-
-User
-in chinese
-ChatGPT
 "一层深奥的外表"
 
 
@@ -1711,7 +1289,7 @@ Here is the translation in Chinese:
 
 User
 It denied legitimacy to the habits,
-The meaning of work: producing the work ethic
+The meaning of work: producing the work ethic 
 preferences or desires entertained by the human targets of the ethical crusade.  in chinese
 ChatGPT
 "It denied legitimacy to the habits, the meaning of work: producing the work ethic preferences or desires entertained by the human targets of the ethical crusade."
@@ -2414,7 +1992,7 @@ The term "osmosis" can be translated into Chinese as "渗透" (shèntòu) or "�
 
 
 User
-frat house
+ frat house
 ChatGPT
 The term "frat house" is often used to refer to a fraternity house, which is a building or residence where members of a college or university fraternity live together. Fraternities are social organizations typically found on college campuses, and their members often live in a shared house during their time at school. Frat houses are known for their communal living arrangements and social activities. In Chinese, "frat house" can be translated as "兄弟会会馆" (xiōngdìhuì huìguǎn) or "兄弟会宿舍" (xiōngdìhuì sùshè).
 
@@ -2446,7 +2024,7 @@ This sentence conveys that "Rich dad" gave advice that both Mike and the speaker
 
 
 User
-I pass out.
+ I pass out.
 ChatGPT
 The phrase "I pass out" can have different meanings depending on the context:
 
@@ -2513,7 +2091,7 @@ This sentence implies that the speaker views certain investments or financial in
 
 
 User
-I hold a small portion of my assets in tax-lien certificates instead of CDs
+ I hold a small portion of my assets in tax-lien certificates instead of CDs
 ChatGPT
 The sentence "I hold a small portion of my assets in tax-lien certificates instead of CDs" can be translated into Chinese as:
 
@@ -2553,7 +2131,7 @@ The term "raves" can be translated into Chinese as "狂欢" (kuánghuān). A "ra
 
 
 User
-I would have countered in English
+ I would have countered in English
 ChatGPT
 The sentence "I would have countered in English" can be translated into Chinese as:
 
@@ -2892,7 +2470,7 @@ This phrase describes the action of standing in line or queueing on a Saturday, 
 
 
 User
-could talk until I was blue in the face
+ could talk until I was blue in the face
 ChatGPT
 The expression "could talk until I was blue in the face" is an idiom that means speaking or arguing about something extensively or for a long time without achieving the desired result or convincing someone.
 
@@ -3707,10 +3285,10 @@ User
 1. Create new showcases to the project which showing how to use API of Map SDK.
 2. Help Presight developers resolve several issues of using Map SDK.
 3. Offer Presight developers advices to use Map SDK better.  rewrite this
-   ChatGPT
-   Develop new project showcases demonstrating the practical utilization of the Map SDK API.
-   Assist Presight developers in resolving various issues related to Map SDK integration.
-   Provide guidance and recommendations to help Presight developers optimize their usage of the Map SDK.
+ChatGPT
+Develop new project showcases demonstrating the practical utilization of the Map SDK API.
+Assist Presight developers in resolving various issues related to Map SDK integration.
+Provide guidance and recommendations to help Presight developers optimize their usage of the Map SDK.
 
 
 
@@ -4248,6 +3826,588 @@ User
 mindset
 ChatGPT
 "Mindset" can be translated to "心态" (xīntài) in Chinese.
+
+
+
+
+User
+dropping out
+ChatGPT
+"Dropping out" can be translated to "辍学" (chuòxué) in Chinese.
+
+
+
+
+User
+en route
+ChatGPT
+"En route" can be translated to "在路上" (zài lù shàng) in Chinese.
+
+
+
+
+User
+so-and-so
+ChatGPT
+"So-and-so" can be translated to "某某" (mǒu mǒu) in Chinese, used to refer to an unspecified or unknown person.
+
+
+
+
+User
+
+they once had an eighty- eight-game winning streak.
+ChatGPT
+In Chinese, "they once had an eighty-eight-game winning streak" can be translated as "他们曾经有过88场连胜" (tāmen céngjīng yǒuguò 88 chǎng liánshèng).
+
+
+
+
+User
+No sooner had he hung up than the call from Minnesota came.
+ChatGPT
+In Chinese, "No sooner had he hung up than the call from Minnesota came" can be translated as "他刚刚挂断电话，就接到了来自明尼苏达的电话" (tā gānggāng guà duàn diànhuà, jiù jiēdàole láizì mínnísūdá de diànhuà).
+
+
+
+
+User
+我给你指路 into English
+ChatGPT
+"I will show you the way."
+
+
+
+
+User
+打出租的时候，告诉司机可以给他指路怎么用英文表达
+ChatGPT
+"When taking a taxi, tell the driver that you can give directions."
+
+
+
+
+User
+made him the toast of England
+ChatGPT
+Made him extremely popular in England.
+
+
+
+
+User
+dote on past in chinese
+ChatGPT
+"dote on past" in Chinese can be translated as "溺爱过去" (nì ài guòqù).
+
+
+
+
+User
+under your spell 
+ChatGPT
+"Under your spell" in Chinese can be translated as "在你的魔咒下" (zài nǐ de mó zhòu xià).
+
+
+
+
+User
+exotic incense wafted through special vents.
+ChatGPT
+异国情调的香味从特殊通风口飘荡而出。
+
+
+
+
+User
+hypochondria and the vapors
+ChatGPT
+"Hypochondria and the vapors" refer to historical terms used to describe certain medical conditions and symptoms. "Hypochondria" generally refers to excessive worry about having a serious illness, despite having no or only mild symptoms. "The vapors" historically referred to a variety of mental or physical symptoms, often associated with fainting or emotional distress, especially in women.
+
+In Chinese:
+
+"忧郁症和呕吐物" (yōuyù zhèng hé ǒutù wù) - Hypochondria and the vapors
+
+
+
+User
+paper over
+ChatGPT
+"Paper over" is an idiom that means to conceal or cover up a problem or difficulty without solving it properly. It implies a temporary solution that doesn't address the underlying issues.
+
+In Chinese:
+
+掩盖问题 (yǎngài wèntí) - Paper over the problem
+
+
+
+User
+Mindsets frame the running account that’s taking place in people’s heads. 
+ChatGPT
+In Chinese:
+
+思维模式构成了人们内心进行的持续性思考过程。 (Sīwéi móshì gòuchéng le rénmen nèixīn jìnxíng de chíxù xìng sīkǎo guòchéng.)
+
+
+
+User
+Stardom shouldn’t be so taxing
+ChatGPT
+In Chinese: 明星生活不应该那么辛苦。 (Míngxīng shēnghuó bù yīnggāi nàme xīnkǔ.)
+
+
+
+
+User
+Ef fort Gone Awry
+ChatGPT
+It seems like your message is incomplete or unclear. Could you please provide more context or clarify your request?
+
+
+
+
+User
+a high-stakes test
+ChatGPT
+"A high-stakes test" refers to an important and consequential examination or assessment that has significant implications, often in academic or professional contexts.
+
+
+
+
+User
+lash out at others
+ChatGPT
+"Lash out at others" means to express anger, criticism, or blame in a sudden and harsh manner towards other people. It often involves speaking or behaving aggressively or defensively due to frustration, stress, or other emotional triggers.
+
+
+
+
+User
+
+Some complain of the slights which are put upon them by relations, and they will tell you sadly of how many evils their old age is the cause.  in chinese
+ChatGPT
+一些人抱怨受到了亲戚们的冷落，他们会悲伤地告诉你，他们的老年时期引发了多少问题。
+
+
+
+
+User
+be aping the author of the proscriptions
+ChatGPT
+在模仿《诏令》的作者
+
+
+
+
+User
+be aping the author of the proscriptions
+ChatGPT
+模仿《诏令》的作者
+
+
+
+
+User
+dissolute wastrels
+ChatGPT
+放荡不羁的浪荡子。
+
+
+
+
+User
+forbidding the use of litters
+ChatGPT
+禁止使用轿子。
+
+
+
+
+User
+crass exultation
+ChatGPT
+肆意欢欣。
+
+
+
+
+User
+outlying pickets
+ChatGPT
+外围哨兵。
+
+
+
+
+User
+The conspirators struck when they did
+ChatGPT
+阴谋者在选择时机时发动了袭击。
+
+
+
+
+User
+wreak havoc
+ChatGPT
+在中文中，"wreak havoc" 可以翻译为 "肆虐" 或者 "造成混乱"。
+
+
+
+
+User
+taken some toll on his system
+ChatGPT
+这句话可以翻译为："对他的身体造成了一些损害"。
+
+
+
+
+User
+a ballpark figure
+ChatGPT
+"a ballpark figure" refers to an approximate or rough estimate of a number or amount. In Chinese, it can be translated as "估算值" or "大致数值".
+
+
+
+
+User
+a ballpark figure
+ChatGPT
+In Chinese, "a ballpark figure" can be translated as "估算值" (gūsuàn zhí) or "大致数值" (dàzhì shùzhí).
+
+
+
+
+User
+ he was a sullen and brooding presence, lost in a private anguish that I could sense only dimly
+ChatGPT
+In this context, the phrase "a sullen and brooding presence, lost in a private anguish that I could sense only dimly" can be translated into Chinese as:
+
+"他是一个愠怒和忧郁的存在，沉浸在我只能隐约感知到的私人痛苦中。" (Tā shì yīgè yùnnù hé yōuyù de cúnzài, chénjìn zài wǒ zhǐ néng yǐn yuè gǎnzhī dào de sīrén tòngkǔ zhōng.)
+
+
+
+
+User
+ as if a wire had been tripped in his brain
+ChatGPT
+In this context, the phrase "as if a wire had been tripped in his brain" can be translated into Chinese as:
+
+"仿佛他脑中的一根电线被触发了一样。" (Fǎngfú tā nǎozhōng de yīgē diànxiàn bèi chùfā le yīyàng.)
+
+
+
+
+User
+good news triggered uncontained outbursts of joy, often extinguished only through increasingly acrobatic bouts of physical exercise, while bad news plunged him into inconsolable desolation.
+ChatGPT
+In Chinese, the sentence "good news triggered uncontained outbursts of joy, often extinguished only through increasingly acrobatic bouts of physical exercise, while bad news plunged him into inconsolable desolation" can be translated as:
+
+"好消息触发了无法抑制的喜悦，常常只能通过越来越高难度的体育锻炼才能缓解，而坏消息则使他陷入了无法安慰的绝望之中。" (Hǎo xiāoxī chùfā le wúfǎ yìzhì de xǐyuè, chángcháng zhǐ néng tōngguò yuè lái yuè gāonándù de tǐyù duànliàn cáinéng huǎnjiě, ér huài xiāoxī zé shǐ tā xiànrù le wúfǎ ānwèi de juéwàng zhī zhōng.)
+
+
+
+
+User
+they knew, had split apart not just nations, but also minds; in Saadat Hasan Manto’s “Toba Tek Singh”—arguably the best-known short story of Partition— the hero, a lunatic caught on the border between India and Pakistan, also inhabits a limbo between sanity and insanity.
+ChatGPT
+In Chinese, the sentence "they knew, had split apart not just nations, but also minds; in Saadat Hasan Manto’s “Toba Tek Singh”—arguably the best-known short story of Partition— the hero, a lunatic caught on the border between India and Pakistan, also inhabits a limbo between sanity and insanity" can be translated as:
+
+"他们知道，分裂的不仅仅是国家，还有人们的心灵；在Saadat Hasan Manto的《托巴泰克辛格》——可以说是印巴分治时期最著名的短篇小说中——主人公，一个被困在印度和巴基斯坦边界的疯子，也生活在正常与疯狂之间的无间地带。" (Tāmen zhīdào, fēnliè de bù jǐnjǐn shì guójiā, hái yǒu rénmen de xīnlíng; zài Saadat Hasan Manto de "Tuōbā Tài Kè Xīnghé"——kěyǐ shuō shì yìnbā fēnzhì shíqī zuì zhùmíng de duǎn piān xiǎoshuō zhōng——zhǔ rén gōng, yīgè bèi kùn zài yìndù hé bājīsītǎn biānjiè de fēngzi, yě shēnghuó zài zhèngcháng yǔ fēngkuáng zhī jiān de wújiān dìdài.)
+
+Please note that the translation of the title "Toba Tek Singh" is transliterated into Chinese characters as "托巴泰克辛格" (Tuōbā Tài Kè Xīnghé).
+
+
+
+
+User
+a volley of paranoid hallucinations
+ChatGPT
+In Chinese, "a volley of paranoid hallucinations" can be translated as "一连串的妄想症幻觉" (Yīliánchuàn de wàngxiǎngzhèng huànjué).
+
+
+
+
+User
+until my grandmother had ferreted him out.
+ChatGPT
+在我祖母找出他之前。
+
+
+
+
+User
+dropped out of the blue
+ChatGPT
+突如其来地退出
+
+
+
+
+User
+the shining pinpricks of light in each eye
+ChatGPT
+眼中闪烁的亮点
+
+
+
+
+User
+My father had had at least two psychotic fugues in his life—both precipitated by the consumption of bhang (mashed-up cannabis buds, melted in ghee, and churned into a frothing drink for religious festivals
+ChatGPT
+我父亲至少有两次精神错乱，都是因为食用大麻（将捣碎的大麻花朵加入酥油中，搅拌成起泡沫的饮料，在宗教节日饮用）引发的。
+
+
+
+
+User
+pinning down
+ChatGPT
+"Pinning down" can mean physically holding someone down or figuratively capturing and defining a concept or idea. Could you please provide more context or specify how you would like the phrase to be used?
+
+
+
+
+User
+the intimate history
+ChatGPT
+"The intimate history" suggests a close or personal account of historical events, experiences, or relationships. It refers to a narrative that delves deeply into personal or private aspects of a person, group, or period in history. If you have a specific context or request related to this phrase, please let me know!
+
+
+
+
+User
+in chinese
+ChatGPT
+"Intimate history" in Chinese can be translated as "亲近历史" (qīnjìn lìshǐ).
+
+
+
+
+User
+There is a second issue at stake here
+ChatGPT
+In this context, "There is a second issue at stake here" can be translated to Chinese as "这里还有第二个问题" (zhèli hái yǒu dì èr gè wèntí).
+
+
+
+
+User
+The gene, meanwhile, invades discourses concerning race, racial discrimination, and “racial intelligence,” and provides startling answers to some of the most potent questions coursing through our political and cultural realms. It reorganizes our understanding of sexuality, identity, and choice, thus piercing the center of some of the most urgent questions coursing through our personal realms.III
+ChatGPT
+这里涉及到的基因同时也介入了关于种族、种族歧视和“种族智力”的话语，并为贯穿我们政治和文化领域的一些最重要问题提供了令人震惊的答案。它重新构建了我们对性取向、身份和选择的理解，因此深入到了我们个人领域的一些最紧迫问题的核心。 III
+
+
+
+
+User
+She weathered the buffets of history with resilience
+ChatGPT
+她以顽强的韧性经受住了历史的冲击。
+
+
+
+
+User
+brier-patch
+ChatGPT
+Brier-patch refers to a thorny, tangled, and difficult situation or problem. It originates from the Uncle Remus stories by Joel Chandler Harris, where Br'er Rabbit pleads not to be thrown into the brier-patch by Br'er Fox, only to find out that the brier-patch is his natural habitat, and he escapes unharmed. The phrase is often used to describe a situation that someone finds unexpectedly advantageous or comfortable, despite its initial appearance of being difficult or challenging.
+
+
+
+
+User
+He was disciplined, plodding, deferential—a man of habits among men in habits
+ChatGPT
+"He was disciplined, plodding, deferential—a man of habits among men in habits" describes someone who is methodical, cautious, and respectful, fitting into societal norms and routines.
+
+
+
+
+User
+in chinese
+ChatGPT
+他循规蹈矩、踏实肯干，是众人中的一个守旧者。
+
+
+
+
+User
+As the
+ 
+audience on the platform listened in disbelief, a higher note came from the train as it approached, and a lower note emanated as it sped away.
+ChatGPT
+当站台上的观众不敢相信地倾听时，火车发出了一个更高的音符，随着它的接近，而当它迅速离去时，则传来了一个较低的音符。
+
+
+
+
+User
+Holed up in a room above a tobacconist’s shop on Sidney Street, 
+ChatGPT
+藏身在悉尼街（Sidney Street）一个烟草店楼上的房间里，
+
+
+
+
+User
+battered relics
+ChatGPT
+破旧的遗物
+
+
+
+
+User
+million paper cuts
+ChatGPT
+百万次的纸上划痕
+
+
+
+
+User
+rewrite "1. Add comments to showcases as Presight developers asked.
+2. Fix crashes Presight developers encountered.
+3. Create a showcase to demonstrate how to define a filter as Presight developers asked.
+4. Create a showcase to demonstrate how to use symbol layer to satisfy in case of colliding as Presight developers asked."
+ChatGPT
+Address Presight developers' requests by adding comments to the showcases.
+Resolve crashes experienced by Presight developers.
+Develop a showcase illustrating how to define a filter, meeting the requirements of Presight developers.
+Create a showcase demonstrating the use of symbol layers to handle collisions, as requested by Presight developers.
+
+
+
+User
+dull pain
+ChatGPT
+"Dull pain" refers to a discomfort or ache that is not sharp or severe. It is a persistent, mild, and often lingering discomfort that can be characterized as an ache or soreness.
+
+
+
+
+User
+not a chance
+ChatGPT
+"Not a chance" is an informal way of expressing strong disagreement or disbelief, indicating that something is absolutely not possible or likely to happen.
+
+
+
+
+User
+set up camp
+ChatGPT
+"Set up camp" means to establish a campsite, arranging tents, equipment, and other necessities for camping. It can also be used metaphorically to mean settling into a place or situation for an extended period.
+
+
+
+
+User
+take first watch in chinese
+ChatGPT
+"Take first watch" in Chinese can be translated as "第一班值夜" (dì yī bān zhí yè) or "第一轮值夜" (dì yī lún zhí yè).
+
+
+
+
+User
+nanny
+ChatGPT
+"Nanny" in Chinese can be translated as "保姆" (bǎomǔ) or "奶妈" (nǎimā).
+
+
+
+
+User
+cut him off his followers
+ChatGPT
+"Cut him off from his followers" can be translated to Chinese as "与他的追随者断绝联系" (yǔ tā de zhuīsuízhě duànwò liánxì).
+
+
+
+
+User
+speciation in chinese
+ChatGPT
+
+1 / 2
+
+"Speciation" can be translated to Chinese as "物种形成" (wùzhǒng xíngchéng).
+
+
+
+
+User
+crop-tailed
+ChatGPT
+The term "crop-tailed" does not have a specific translation in Chinese. If you are referring to a specific context or phrase, please provide more context so I can assist you accurately.
+
+
+
+
+User
+tacking south of heresy
+ChatGPT
+"Tacking south of heresy" is a metaphorical phrase and doesn't have a direct translation in Chinese. Translating metaphors can be complex, and the meaning may need to be conveyed differently in the target language. If you have a specific context in which you want to use this phrase, please provide more details, and I can help you formulate an appropriate translation.
+
+
+
+
+User
+Thomas Malthus had been a curate at the Okewood Chapel in Surrey by daytime, but he was a closet economist by night. 
+ChatGPT
+"Thomas Malthus白天是Surrey的Okewood Chapel的副神父，但晚上是一个隐藏的经济学家。"
+
+
+
+
+User
+Sisyphus moving from one famine to the next.
+ChatGPT
+西西弗斯从一个饥荒走向下一个。
+
+
+
+
+User
+One’s imagination must fill up very wide blanks.
+ChatGPT
+一个人的想象力必须填补非常宽广的空白。
+
+
+
+
+User
+isolator
+ChatGPT
+"Isolator" in Chinese can be translated as "隔离器" (gélíqì).
+
+
+
+
+User
+gemmules 
+ChatGPT
+"Gemmules" is a term coined by Charles Darwin to describe hypothetical particles representing hereditary information. There isn't a direct translation for "gemmules" in Chinese, but it can be explained or rendered using the characters "基因粒子" (jīyīn lìzǐ) which mean "gene particles."
+
+
+
+
+User
+my account is debited
+
+ChatGPT
+"我的账户被扣款了" (wǒ de zhànghù bèi kòu kuǎn le) in Chinese.
+
+
+
+
+User
+The anther and the stamen mature inside the flower’s clasplike keel,
+ChatGPT
+花药和雄蕊在花朵的夹瓣式龙骨内成熟。
 
 
 
