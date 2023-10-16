@@ -1,8 +1,10 @@
 
 # meaning of 'Laying your pearls before swine will only bring you trouble
+
 an idiomatic expression that means sharing something valuable or important with someone who cannot appreciate its worth or who will not treat it with the respect it deserves.
 
 # made him the toast of England
+
 means that someone has become extremely popular and admired in England, usually due to their achievements or accomplishments. 
 
 # no visiting dignitary would think of leaving Venice without paying him a call.
@@ -822,6 +824,7 @@ The phrase "It just came out" can be translated into Chinese as "它就这样流
 The phrase "Fill me in" can be translated into Chinese as "告诉我详情" (gàosù wǒ xiángqíng) or "给我补充情况" (gěi wǒ bǔchōng qíngkuàng). It's a request for someone to provide you with information or details about a particular situation or topic that you may not be aware of.
 
 # Your name came up
+
 The phrase "Your name came up" can be translated into Chinese as "提到了你的名字" (tídào le nǐ de míngzì) or "有人提到了你" (yǒu rén tídào le nǐ). It means that someone mentioned or brought up your name in a conversation or context, and it's often used to inform someone about this occurrence.
 
 # How come
@@ -1606,9 +1609,7 @@ This phrase conveys the idea that the individuals in question are proceeding wit
 
 
 
-User
-one heck of a hard course
-ChatGPT
+# one heck of a hard course
 The expression "one heck of a hard course" is an informal way of emphasizing that a course or task is extremely challenging or difficult. It uses "heck" as a mild expletive to intensify the description.
 
 In Chinese, you can translate it as:
@@ -1617,12 +1618,7 @@ In Chinese, you can translate it as:
 
 This phrase conveys that the course is exceptionally tough and demanding.
 
-
-
-
-User
-Life stinks
-ChatGPT
+# Life stinks
 The phrase "Life stinks" is an informal expression that conveys a sense of frustration, dissatisfaction, or unhappiness with one's current circumstances or life in general. It suggests that the speaker is going through a difficult or unpleasant period.
 
 In Chinese, you can translate "Life stinks" as:
@@ -1631,12 +1627,7 @@ In Chinese, you can translate "Life stinks" as:
 
 This phrase indicates that the speaker finds their life to be unpleasant or unsatisfactory.
 
-
-
-
-User
-a quarter when to express money
-ChatGPT
+# a quarter when to express money
 In English, when referring to a specific amount of money, "a quarter" typically means 25 cents or 25% of a dollar. It's a common way to express a specific monetary value.
 
 In Chinese, you can translate "a quarter" as:
@@ -1646,12 +1637,7 @@ In Chinese, you can translate "a quarter" as:
 
 The translation for money is specific to Chinese currency and can vary in other contexts or countries.
 
-
-
-
-User
-Don't play dumb
-ChatGPT
+# Don't play dumb
 The phrase "Don't play dumb" is an informal expression used to tell someone not to pretend to be ignorant or unaware when they likely know or understand something but are acting otherwise. It's a way of urging someone to be straightforward or honest.
 
 In Chinese, you can translate "Don't play dumb" as:
@@ -1660,12 +1646,7 @@ In Chinese, you can translate "Don't play dumb" as:
 
 This phrase conveys the idea that the person should not feign ignorance or act as if they don't know something when they actually do.
 
-
-
-
-User
-you're cut off
-ChatGPT
+# you're cut off
 The phrase "you're cut off" is an informal way of telling someone that they are no longer allowed to have more of something, typically referring to drinks or alcoholic beverages in a social setting. It implies that the person has had enough and should stop consuming.
 
 In Chinese, you can translate "you're cut off" as:
@@ -1674,12 +1655,7 @@ In Chinese, you can translate "you're cut off" as:
 
 This phrase indicates that the person is not permitted to have any more drinks or alcohol.
 
-
-
-
-User
-see when
-ChatGPT
+# see when
 The phrase "see when" is informal and can be used to inquire about or suggest a time for a future event or activity. It's often used when discussing plans or scheduling.
 
 In Chinese, you can translate "see when" as:
@@ -1688,12 +1664,7 @@ In Chinese, you can translate "see when" as:
 
 This phrase implies a desire to determine or agree upon a suitable time for something to happen.
 
-
-
-
-User
-easy on the suger
-ChatGPT
+# easy on the suger
 The phrase "easy on the sugar" is a suggestion to consume less sugar or to be cautious about adding too much sugar to something, such as a beverage or food. It's often used to promote a healthier diet or to avoid excessive sweetness.
 
 In Chinese, you can translate "easy on the sugar" as:
@@ -1702,12 +1673,7 @@ In Chinese, you can translate "easy on the sugar" as:
 
 This phrase advises reducing the amount of sugar used or consumed.
 
-
-
-
-User
-we are three years apart
-ChatGPT
+# we are three years apart
 The phrase "we are three years apart" means that there is a three-year age difference between two individuals. It indicates that one person is three years older or younger than the other.
 
 In Chinese, you can translate "we are three years apart" as:
@@ -1716,26 +1682,7 @@ In Chinese, you can translate "we are three years apart" as:
 
 This phrase explicitly conveys the age difference between the two individuals.
 
-
-
-
-User
-where are you going there
-ChatGPT
-The phrase "where are you going there" seems to be seeking information about someone's destination. It's an informal way of asking where someone is headed or what their destination is.
-
-In Chinese, you can translate "where are you going there" as:
-
-"你去哪儿啊?" (Nǐ qù nǎ'er a?)
-
-This phrase asks about the person's destination or where they are planning to go.
-
-
-
-
-User
-what's another 3 days
-ChatGPT
+# what's another 3 days
 The phrase "what's another 3 days" is often used in a context where a delay or extension of three days is being discussed. It suggests that an additional three-day delay or wait is not significant or problematic.
 
 In Chinese, you can translate "what's another 3 days" as:
@@ -1744,12 +1691,7 @@ In Chinese, you can translate "what's another 3 days" as:
 
 This phrase implies that a three-day extension or delay is not a big deal or doesn't make much difference.
 
-
-
-
-User
-where are you going with this
-ChatGPT
+# where are you going with this
 The phrase "where are you going with this" is often used to ask someone to clarify or explain the point or direction of their conversation or argument. It's a way of seeking a clear and coherent explanation for what the person is saying.
 
 In Chinese, you can translate "where are you going with this" as:
@@ -1758,52 +1700,28 @@ In Chinese, you can translate "where are you going with this" as:
 
 This phrase conveys the idea of asking the person to explain the purpose or meaning of their statement or argument.
 
-
-
-
-User
-what do you see in him
-ChatGPT
+# what do you see in him
 The phrase "what do you see in him" is a question that asks someone to explain or describe the qualities, attributes, or reasons why they are attracted to or interested in another person. It's often used in a context where someone is curious about another person's romantic interest or admiration.
-
-In Chinese, you can translate "what do you see in him" as:
 
 "你看上他什么地方?" (Nǐ kàn shàng tā shénme dìfang?)
 
 This phrase asks the person to specify the characteristics or qualities that they find appealing in the other person.
 
-
-
-
-User
-don't go there
-ChatGPT
+# don't go there
 The phrase "don't go there" is an informal expression used to advise someone not to bring up a certain topic, idea, or issue in conversation. It's often used when discussing a sensitive or controversial subject that might lead to arguments, discomfort, or emotional reactions.
-
-In Chinese, you can translate "don't go there" as:
 
 "别谈那个话题" (Bié tán nàge huàtí)
 
 This phrase suggests avoiding a particular topic to maintain a more pleasant or harmonious conversation.
 
-
-
-
-User
-where does it that come from
-ChatGPT
+# where does it that come from
 It seems like there might be a slight error in your question. If you're asking about the origin or source of something, you can phrase it as "Where does that come from?" Here's how you can say it in Chinese:
 
 "那是从哪里来的?" (Nà shì cóng nǎlǐ lái de?)
 
 This question is used when you want to know the source, origin, or background of something.
 
-
-
-
-User
-hit the bathroom
-ChatGPT
+# hit the bathroom
 The phrase "hit the bathroom" is an informal way of saying that someone needs to go to the bathroom or restroom, typically to relieve themselves.
 
 In Chinese, you can translate "hit the bathroom" as:
@@ -1812,40 +1730,7 @@ In Chinese, you can translate "hit the bathroom" as:
 
 These phrases indicate the action of going to the bathroom or restroom.
 
-
-
-
-User
-she has my eyes
-ChatGPT
-The phrase "she has my eyes" is often used to describe a family resemblance, especially when a child shares physical features or characteristics with one of their parents. In this case, it suggests that the child's eyes resemble those of the speaker or one of their relatives.
-
-In Chinese, you can translate "she has my eyes" as:
-
-"她有我的眼睛" (Tā yǒu wǒ de yǎnjīng)
-
-This phrase conveys the idea that the child's eyes are similar in appearance to those of the speaker.
-
-
-
-
-User
-are you listening yourself
-ChatGPT
-The phrase "are you listening to yourself" is a rhetorical question often used to express surprise, disbelief, or criticism when someone says something that seems irrational, illogical, or contradictory. It's a way of suggesting that the person should reconsider or reflect on what they've just said.
-
-In Chinese, you can translate "are you listening to yourself" as:
-
-"你在听自己说的话吗?" (Nǐ zài tīng zìjǐ shuō dehuà ma?)
-
-This phrase implies that the speaker finds the other person's statement or argument questionable and encourages them to think about what they've said.
-
-
-
-
-User
-hear me out
-ChatGPT
+# hear me out
 The phrase "hear me out" is used to request that someone listens to what you have to say, especially when you want to explain or present your viewpoint, ideas, or opinions. It's often used when you anticipate that the other person might have reservations or objections, and you want them to give you a fair chance to express yourself.
 
 In Chinese, you can translate "hear me out" as:
@@ -1854,12 +1739,7 @@ In Chinese, you can translate "hear me out" as:
 
 This phrase politely asks the person to listen to your entire statement or explanation before forming an opinion or responding.
 
-
-
-
-User
-are you listening to yourself
-ChatGPT
+# are you listening to yourself
 The phrase "are you listening to yourself" is a rhetorical question often used to express surprise, disbelief, or criticism when someone says something that seems irrational, illogical, or contradictory. It's a way of suggesting that the person should reconsider or reflect on what they've just said.
 
 In Chinese, you can translate "are you listening to yourself" as:
@@ -1868,42 +1748,23 @@ In Chinese, you can translate "are you listening to yourself" as:
 
 This phrase implies that the speaker finds the other person's statement or argument questionable and encourages them to think about what they've said.
 
-
-
-
-User
-looked for me
-ChatGPT
+# looked for me
 The phrase "looked for me" indicates that someone was searching or trying to find you. In a sentence, it might be used like this:
 
 "He looked for me, but I was already gone."
-
-In Chinese, you can translate "looked for me" as:
 
 "找我" (Zhǎo wǒ)
 
 This phrase conveys the action of someone trying to locate or find you.
 
-
-
-
-User
-hit me up
-ChatGPT
+# hit me up
 The slang phrase "hit me up" is commonly used to ask someone to contact or reach out to you. It can be used to request a phone call, text message, email, or any form of communication. Essentially, it's a way of saying, "Please get in touch with me."
-
-In Chinese, you can translate "hit me up" as:
 
 "联系我" (Liánxì wǒ) or "给我打电话" (Gěi wǒ dǎ diànhuà)
 
 These phrases convey the idea that you want the person to contact you or get in touch with you.
 
-
-
-
-User
-you look out for me
-ChatGPT
+# you look out for me
 The phrase "you look out for me" expresses the idea that someone is taking care of or watching out for your well-being, safety, or interests. It implies a sense of protection and support from that person.
 
 In Chinese, you can translate "you look out for me" as:
@@ -1912,12 +1773,7 @@ In Chinese, you can translate "you look out for me" as:
 
 This phrase conveys the notion that the person is caring for you and ensuring your welfare.
 
-
-
-
-User
-pick it up
-ChatGPT
+# pick it up
 The phrase "pick it up" is a command or request to lift or gather something from a surface. It can refer to physically picking up an object from the ground or a table, or it can be used figuratively to encourage someone to improve their performance or take action.
 
 In Chinese, you can translate "pick it up" as:
@@ -1929,85 +1785,37 @@ Figurative sense (encouraging someone to improve or take action):
 "加油" (Jiā yóu)
 The choice of translation depends on the context and whether you are using it in a physical or motivational sense.
 
-
-
-
-User
-go through my phone
-ChatGPT
+# go through my phone
 The phrase "go through my phone" typically means allowing someone to examine the content, messages, or apps on your smartphone. It may be used in various contexts, such as when you want someone to check or find something specific, share information, or ensure transparency in a relationship or situation.
-
-In Chinese, you can translate "go through my phone" as:
 
 "查看我的手机" (Chákàn wǒ de shǒujī)
 
 This phrase indicates the action of inspecting or examining the contents of your phone. Please note that allowing someone to go through your phone involves privacy considerations, so it should be done with trust and consent.
 
-
-
-
-User
-why are you always on your phone
-ChatGPT
+# why are you always on your phone
 The phrase "why are you always on your phone" is a question or statement that implies someone spends a lot of time using their smartphone or mobile device. It may express curiosity or concern about the person's phone usage habits.
-
-In Chinese, you can translate "why are you always on your phone" as:
 
 "你为什么总是在用手机" (Nǐ wèishéme zǒng shì zài yòng shǒujī)
 
 This question inquires about the reasons behind the person's frequent use of their phone. It's often asked when someone is observed spending a significant amount of time on their mobile device.
 
 
-
-
-User
-I like hanging with you
-ChatGPT
+# I like hanging with you
 The phrase "I like hanging with you" is a casual and friendly way to express that you enjoy spending time with someone. It's a way of saying that you appreciate their company and enjoy being in their presence.
-
-In Chinese, you can translate "I like hanging with you" as:
 
 "我喜欢和你一起玩" (Wǒ xǐhuān hé nǐ yīqǐ wán)
 
 This phrase conveys the sentiment that you find the person's companionship enjoyable and that you like spending time together.
 
-
-
-
-User
-he's long gone
-ChatGPT
+# he's long gone
 The phrase "he's long gone" typically means that someone has departed or left a place a long time ago, and they are no longer present. It often implies that the person has been absent for an extended period.
-
-In Chinese, you can translate "he's long gone" as:
 
 "他早就走了" (Tā zǎo jiù zǒu le)
 
 This phrase indicates that the person in question left a while ago, emphasizing the passage of time since their departure.
 
-
-
-
-User
-one your way out
-ChatGPT
-The phrase "on your way out" is often used to give someone instructions or ask them to do something as they are leaving a place. It can be a polite way to remind someone to take care of a task or complete an action before departing.
-
-In Chinese, you can translate "on your way out" as:
-
-"在你离开的时候" (Zài nǐ líkāi de shíhòu)
-
-This phrase can be followed by specific instructions or requests depending on the context.
-
-
-
-
-User
-on your way out
-ChatGPT
+# on your way out
 The phrase "on your way out" is typically used to make a request or provide instructions to someone as they are leaving a place. It's a way to ask them to do something before they depart.
-
-In Chinese, you can translate "on your way out" as:
 
 "在你离开的时候" (Zài nǐ líkāi de shíhòu)
 
@@ -2016,135 +1824,69 @@ This phrase is often followed by specific instructions or requests based on the 
 
 
 
-User
-I am here
-ChatGPT
+# I am here
 The phrase "I am here" indicates that you are currently present or available at a particular location. It's a way of letting someone know that you are at a specific place and can interact or assist them if needed.
-
-In Chinese, you can translate "I am here" as:
 
 "我在这里" (Wǒ zài zhèlǐ)
 
 This phrase conveys your current location and availability to others.
 
-
-
-
-User
-been there
-ChatGPT
+# been there
 The phrase "been there" typically means that you have experienced or visited a particular place or situation before. It can also be used more broadly to indicate that you have encountered a certain situation or problem in the past and are familiar with it.
-
-In Chinese, you can translate "been there" as:
 
 "曾经去过那里" (Céngjīng qù guò nàlǐ)
 
 This phrase emphasizes that you have physically visited a place, but in a broader context, it can convey that you have experience or familiarity with a particular situation or circumstance.
 
 
-
-
-User
-feel me up
-ChatGPT
+# feel me up
 The phrase "feel me up" is informal and can have different meanings depending on the context. It is often used in a flirtatious or inappropriate manner to suggest someone touching or groping another person's body without their consent, which is considered inappropriate and unacceptable behavior.
 
 If you are using this phrase in a different context or to convey a different meaning, please provide more context so that I can offer a more accurate translation or explanation.
 
-
-
-
-User
-he's no show
-ChatGPT
+# he's no show
 The phrase "he's no show" typically means that someone did not appear or did not arrive at a scheduled or expected event, meeting, appointment, or engagement. It implies that the person failed to attend as planned.
-
-In Chinese, you can translate "he's no show" as:
-
 "他没有出现" (Tā méiyǒu chūxiàn)
 
 This phrase indicates that the person in question did not show up or attend the event or meeting.
 
-
-
-
-User
-I have the beef with him
-ChatGPT
+# I have the beef with him
 The phrase "I have the beef with him" is an informal way of saying that you have a problem or issue with someone, and you may be upset or in conflict with them. It suggests that there is some disagreement or conflict between you and the other person.
-
-In Chinese, you can express this as:
 
 "我和他有问题" (Wǒ hé tā yǒu wèntí)
 
 This phrase conveys that there is an unresolved issue or conflict between you and the person in question.
 
-
-
-
-User
-you failed me
-ChatGPT
+# you failed me
 The phrase "you failed me" expresses disappointment or dissatisfaction with someone because they did not meet your expectations or fulfill their responsibilities. It suggests that the person did not perform as expected, and you feel let down or disappointed by their actions or lack thereof.
-
-In Chinese, you can say:
 
 "你让我失望了" (Nǐ ràng wǒ shīwàng le)
 
 This phrase conveys your disappointment and the feeling that the person did not meet your expectations.
 
-
-
-
-User
-I can't even
-ChatGPT
+# I can't even
 The expression "I can't even" is often used informally to convey a sense of frustration, disbelief, or being overwhelmed by a situation. It suggests that the speaker is unable to handle or process what is happening.
-
-In Chinese, you can express a similar sentiment with phrases like:
 
 "我真的受不了了" (Wǒ zhēn de shòu bù liǎo le): This translates to "I really can't take it anymore."
 "我都无语了" (Wǒ dōu wúyǔ le): This means "I'm speechless."
 These phrases convey a sense of exasperation or being at a loss for words in the face of a situation.
 
-
-
-
-User
-woe is me
-ChatGPT
+# woe is me
 The phrase "woe is me" is an expression of sorrow, distress, or self-pity. It is often used when someone is lamenting their misfortune or expressing a sense of suffering or unhappiness.
-
-In Chinese, you can express a similar sentiment with phrases like:
 
 "我好苦啊" (Wǒ hǎo kǔ a): This translates to "I am so miserable."
 "我真不幸" (Wǒ zhēn bù xìng): This means "I am truly unlucky."
 These phrases convey a sense of personal suffering or misfortune.
 
 
-
-
-User
-do you need a ride
-ChatGPT
+# do you need a ride
 The phrase "do you need a ride" is an offer to provide someone with transportation, typically in a vehicle, to a specific destination. It is a polite way to ask if someone requires assistance getting to a particular place.
-
-In Chinese, you can say:
-
 "你需要搭车吗?" (Nǐ xūyào dāchē ma?)
 
 This phrase conveys your willingness to offer transportation and asks if the person requires a ride.
 
-
-
-
-User
-mine is here
-ChatGPT
+# mine is here
 The phrase "mine is here" typically indicates that something belonging to the speaker or someone they know has arrived or is present. It can refer to a variety of things, such as a person, an object, or an event.
-
-In Chinese, you can say:
-
 "我的（东西/人/事情）在这里" (Wǒ de (dōngxi/rén/shìqing) zài zhèlǐ)
 
 You can replace "(东西/人/事情)" with the specific item or person you are referring to. This phrase communicates that what you are talking about has arrived or is currently present.
@@ -2152,1240 +1894,414 @@ You can replace "(东西/人/事情)" with the specific item or person you are r
 
 
 
-User
-don't listen in on us
-ChatGPT
+# don't listen in on us
 The phrase "don't listen in on us" is a request for someone not to eavesdrop or overhear a private conversation. It's a way to ask for privacy and to ensure that no one is monitoring or listening to the conversation without permission.
-
-In Chinese, you can say:
-
 "不要偷听我们的谈话" (Bù yào tōu tīng wǒmen de tánhuà)
 
 This phrase conveys the same message, advising someone not to secretly listen to your conversation.
 
-
-
-
-User
-my son takes after me
-ChatGPT
+# my son takes after me
 The phrase "my son takes after me" means that your son shares similarities or characteristics with you, often in terms of personality, behavior, appearance, or talents. It implies that there are noticeable resemblances or inherited traits between you and your son.
-
-In Chinese, you can say:
-
 "我儿子像我" (Wǒ érzi xiàng wǒ)
 
 This phrase expresses the idea that your son resembles you in some way, either in terms of physical features or personality traits.
 
-
-
-
-User
-my ride is here
-ChatGPT
+# my ride is here
 The phrase "my ride is here" typically means that the transportation you arranged or were expecting has arrived to pick you up and take you to your destination.
-
-In Chinese, you can say:
-
 "我的车来了" (Wǒ de chē lái le)
 
 This phrase indicates that your vehicle or ride has arrived, and you are ready to leave or depart.
 
-
-
-
-User
-I'm done smoking
-ChatGPT
+# I'm done smoking
 The phrase "I'm done smoking" means that the person has decided to quit smoking or has finished smoking a cigarette.
-
-In Chinese, you can say:
-
 "我不再吸烟了" (Wǒ bù zài xīyān le)
 
 This phrase indicates that you have stopped smoking, emphasizing your decision to quit the habit.
 
-
-
-
-User
-you are really something
-ChatGPT
+# you are really something
 The phrase "you are really something" is often used to express admiration, appreciation, or sometimes even surprise towards someone's abilities, actions, or qualities. Depending on the context and tone, it can be a compliment or a comment on someone's unique or impressive qualities.
-
-In Chinese, you can say:
-
 "你真了不起" (Nǐ zhēn liǎobùqǐ)
 
 This phrase conveys a similar sense of admiration and appreciation for someone's abilities or achievements.
 
-
-
-
-User
-something's up
-ChatGPT
+# something's up
 The phrase "something's up" is typically used to indicate that there is something unusual, noteworthy, or suspicious happening or about to happen. It suggests a sense of curiosity or alertness about a situation or event.
-
-In Chinese, you can say:
 
 "有什么事情发生了" (Yǒu shé me shìqíng fāshēng le)
 
 This phrase conveys the idea that there is an event or situation of interest or concern, and you want to know more about it or discuss it further.
 
-
-
-
-User
-something is off
-ChatGPT
+# something is off
 The phrase "something is off" is often used to express a feeling or suspicion that there is something wrong, unusual, or not quite right about a situation, person, or thing. It suggests a sense of unease or concern.
-
-In Chinese, you can say:
-
 "有点不对劲" (Yǒu diǎn bù duìjìn)
 
 This phrase conveys the idea that you have detected something that seems unusual or suspicious and that you are expressing your sense that things are not as they should be.
 
-
-
-
-User
-1. Create new showcases to the project which showing how to use API of Map SDK.
-2. Help Presight developers resolve several issues of using Map SDK.
-3. Offer Presight developers advices to use Map SDK better.  rewrite this
-ChatGPT
-Develop new project showcases demonstrating the practical utilization of the Map SDK API.
-Assist Presight developers in resolving various issues related to Map SDK integration.
-Provide guidance and recommendations to help Presight developers optimize their usage of the Map SDK.
-
-
-
-User
-need all bells and whistles
-ChatGPT
+# need all bells and whistles
 The expression "all bells and whistles" is used to indicate that something includes every available feature or enhancement, often to the point of being extravagant or excessive.
-
-In Chinese, you can say:
-
 "需要所有的花哨功能" (Xūyào suǒyǒu de huāshuò gōngnéng)
 
-This phrase conveys the idea that you want or require a product or service with all possible features and enhancements.
-
-
-
-
-User
-Midas touch
-ChatGPT
+# Midas touch
 "Midas touch" is an idiomatic expression used to describe someone who has the ability to make everything they are involved with highly successful or profitable, similar to the legendary King Midas who could turn everything he touched into gold.
-
-In Chinese, you can say:
 
 "点石成金" (Diǎnshí chéng jīn)
 
 This phrase conveys the concept of turning things into gold with a mere touch, symbolizing the ability to make everything successful or lucrative.
 
-
-
-
-User
-soliciting
-ChatGPT
+# soliciting
 "Soliciting" generally refers to the act of asking, requesting, or seeking something from someone, often in a formal or persistent manner. It can have various contexts, such as soliciting donations, opinions, business, or clients.
 
-In Chinese, the term "soliciting" can be translated as:
-
-征求 (Zhēngqiú) - generally used for seeking opinions, suggestions, or feedback.
-招揽 (Zhāolǎn) - used for soliciting business or clients, often in a commercial context.
-The appropriate translation depends on the specific context in which "soliciting" is used.
-
-
-
-
-User
-I could bask in my high numbers
-ChatGPT
-To express the idea of enjoying or taking pleasure in one's high numbers, you can say:
-
+# I could bask in my high numbers
 "我可以陶醉在我的高数字中。"
-(Wǒ kěyǐ táozuì zài wǒ de gāo shùzì zhōng.)
 
-This sentence conveys the sense of basking in the achievement of having high numbers.
-
-
-
-
-User
-when the going got rough, he often folded
-ChatGPT
-"When the going got rough, he often folded" suggests that when faced with challenging situations, this person tended to give up or quit rather than facing the difficulties head-on.
-
-In Chinese, this can be translated as:
-
+# when the going got rough, he often folded
 "当情况变得艰难时，他经常退缩。"
-(Dāng qíngkuàng biàn de jiānnán shí, tā jīngcháng tuìsuō.)
-
-Please note that translations may vary based on the specific context and tone you intend to convey.
 
 
-
-
-User
-a huge commotion
-
-ChatGPT
-"A huge commotion" can be translated to Chinese as:
-
+# a huge commotion
 "一场巨大的骚动。"
-(Yī chǎng jùdà de sāodòng.)
 
 This phrase conveys the idea of a significant disturbance or uproar.
 
-
-
-
-User
-a five-year dry spell
-ChatGPT
-"A five-year dry spell" can be translated to Chinese as:
-
+# a five-year dry spell
 "五年的干旱期。"
-(Wǔ nián de gānhàn qī.)
 
-This phrase refers to a period of five years during which something, such as rain or luck, is scarce or lacking.
-
-
-
-
-User
-He scooped it up and ran for a touchdown as the crowd cheered
-ChatGPT
-"He scooped it up and ran for a touchdown as the crowd cheered" can be translated to Chinese as:
-
+# He scooped it up and ran for a touchdown as the crowd cheered
 "他捡起球，冲向终点区，观众欢呼雀跃。"
-(Tā jiǎn qǐ qiú, chōng xiàng zhōng diǎn qū, guānzhòng huānhū què yuè.)
 
 This phrase describes a sports moment where a player picks up the ball and runs to score a touchdown while the spectators cheer excitedly.
 
 
 
 
-User
-rampant rumors
-ChatGPT
-"Rampant rumors" can be translated to Chinese as:
-
+# rampant rumors
 "谣言四起。"
-(Yáoyán sìqǐ.)
 
 This phrase refers to widespread and unverified stories or gossip that are circulating among people.
 
-
-
-
-User
-nouvelle cuisine
-ChatGPT
+# nouvelle cuisine
 "Nouvelle cuisine" is a French term that translates to "new cuisine" in English. It refers to an approach to cooking and food presentation that emerged in France in the 1960s and 1970s. Nouvelle cuisine emphasizes fresh, high-quality ingredients, simple preparation methods, and artistic presentation.
 
-
-
-
-User
-haute couture in chinese
-ChatGPT
+# haute couture
 "Haute couture" in Chinese is "高级定制" (gāojí dìngzhì), which translates to "high-level custom-made" or "high fashion." This term refers to the creation of exclusive, custom-fitted clothing made by high-end fashion designers and couturiers.
 
-
-
-
-User
-fly fishing
-ChatGPT
-Fly fishing is a method of fishing that uses a specialized fly rod, reel, and weighted line to cast a lightweight artificial fly to catch fish. This technique involves casting a nearly weightless fly using a fly rod, reel, and specialized weighted line. Fly fishing is often considered a sport or recreational activity and is practiced in both freshwater and saltwater environments. Anglers use a variety of casting techniques to present the fly in a way that mimics the behavior of natural insects or other prey, enticing fish to strike. Fly fishing requires skill and precision, making it a popular pastime for enthusiasts worldwide.
-
-
-
-
-User
-fly fishing in chinese
-ChatGPT
+# fly fishing
 Fly fishing in Chinese can be translated as "飞钓" (fēi diào).
 
-
-
-
-User
-jackpot
-ChatGPT
+# jackpot
 "Jackpot" in Chinese is "头奖" (tóu jiǎng) or "大奖" (dà jiǎng).
 
-
-
-
-User
-hit the jackpot
-ChatGPT
+# hit the jackpot
 "Hit the jackpot" in Chinese can be translated as "中大奖" (zhòng dà jiǎng) or "幸运中奖" (xìngyùn zhòng jiǎng).
 
-
-
-
-User
-tabloids
-ChatGPT
+# tabloids
 "Tabloids" in Chinese can be translated as "小报" (xiǎo bào) or "八卦报纸" (bā guà bàozhǐ).
 
+# One time he ate too close to the match
+"One time he ate too close to the match" in Chinese can be translated as "有一次他在比赛前吃得太近了" 
 
-
-
-User
-One time he ate too close to the match
-ChatGPT
-"One time he ate too close to the match" in Chinese can be translated as "有一次他在比赛前吃得太近了" (Yǒu yī cì tā zài bǐsài qián chī de tài jìn le).
-
-
-
-
-User
-resident genius
-ChatGPT
+# resident genius
 "Resident genius" in Chinese can be translated as "居民天才" (Jūmín tiāncái).
 
-
-
-
-User
-fiascos
-ChatGPT
+# fiascos
 "Fiascos" in Chinese can be translated as "惨败" (cǎnbài) or "失败" (shībài), both meaning "failure" or "disaster."
 
-
-
-
-User
-plodding
-ChatGPT
+# plodding
 "Plodding" can be translated to "单调乏味的" (dāndiào fáwèi de) in Chinese, which means "dull" or "tedious."
 
-
-
-
-User
-the saggy, baggy elephant
-ChatGPT
+# the saggy, baggy elephant
 "The Saggy, Baggy Elephant" is a children's book written by Kathryn Jackson. In Chinese, it would be translated as "松松垮垮的大象" (sōng sōng kuǎ kuǎ de dà xiàng).
 
-
-
-
-User
-tugboat
-ChatGPT
+# tugboat
 "Tugboat" in Chinese can be translated as "拖船" (tuō chuán).
 
-
-
-
-User
-slogger
-ChatGPT
+# slogger
 "Slogger" typically refers to someone who works hard and diligently, often in a laborious or unskilled manner. There isn't a direct equivalent in Chinese, but you could describe someone as "勤劳而吃苦耐劳的人" (qínláo ér chīkǔ nàiláo de rén), which means a hardworking and enduring person.
 
-
-
-
-User
-It’s as if Midori popped out of the womb fiddling, Michael Jordan dribbling, and Picasso doodling
-ChatGPT
-This phrase implies that Midori is exceptionally skilled and talented. A similar expression in Chinese could be:
-
-"就好像米多里天生就擅长小提琴，迈克尔·乔丹天生就擅长运球，毕加索天生就擅长涂鸦一样。" (jiù hǎoxiàng mǐ duō lǐ tiānshēng jiù shàncháng xiǎotíqín, mài kè ěr qiáodān tiānshēng jiù shàncháng yùnqiú, bìjiāsuǒ tiānshēng jiù shàncháng túyā yīyàng).
+# It’s as if Midori popped out of the womb fiddling, Michael Jordan dribbling, and Picasso doodling
+"就好像米多里天生就擅长小提琴，迈克尔·乔丹天生就擅长运球，毕加索天生就擅长涂鸦一样。" 
 
 Please note that this translation is a creative adaptation to convey the intended meaning in Chinese.
 
-
-
-
-User
-down-and-out
-ChatGPT
-"Down-and-out" refers to someone who is destitute, without resources, and often homeless or living in extreme poverty. In Chinese, it can be translated as "走投无路的" (zǒu tóu wú lù de) or "无家可归的" (wú jiā kě guī de), both of which convey the idea of being in a desperate situation and having nowhere to turn.
-
-
-
-
-User
-down-and-out nation
-ChatGPT
+# down-and-out nation
 "Down-and-out nation" can be translated to Chinese as "处于困境的国家" (chǔ yú kùn jìng de guó jiā), which implies a nation facing economic, social, or political challenges and difficulties.
 
-
-
-
-User
-jockey
-ChatGPT
+# jockey
 "Jockey" can be translated to Chinese as "骑师" (qí shī) or "骑手" (qí shǒu), both of which refer to a person who rides horses professionally in races.
 
-
-
-
-User
-debut
-ChatGPT
+# debut
 "Debut" can be translated to Chinese as "首次亮相" (shǒucì liàngxiàng) or "初次登场" (chūcì dēngchǎng), both of which mean the first public appearance or performance of someone, especially in the entertainment industry.
 
-
-
-
-User
-grit and spirit
-ChatGPT
+# grit and spirit
 "Grit and spirit" can be translated to Chinese as "毅力和精神" (yìlì hé jīngshén) or "勇气和韧性" (yǒngqì hé rènxìng), both of which convey the qualities of determination, courage, and resilience.
 
-
-
-
-User
-penning tart
-ChatGPT
-I'm not sure what you mean by "penning tart." Could you please provide more context or clarify your request so I can assist you accurately?
-
-
-
-
-User
-hicks and morons
-ChatGPT
-It appears you are using derogatory terms. It's important to communicate respectfully and avoid using offensive language. If you have any other topic or request you'd like assistance with, please feel free to let me know.
-
-
-
-
-User
-nest egg
-ChatGPT
+# nest egg
 A "nest egg" is a term used to describe a sum of money or savings that has been set aside and saved for the future. It's typically used to secure one's financial future, especially during retirement.
 
-
-
-
-User
-steeped in
-ChatGPT
-"Steeped in" is a phrase that means deeply immersed in or surrounded by a particular quality, feeling, or influence. It suggests a thorough and profound involvement or familiarity with something.
-
-
-
-
-User
-hicks and morons in chinese
-ChatGPT
+# hicks and morons
 The phrase "hicks and morons" in Chinese can be translated as "乡巴佬和白痴" (xiāng bā lǎo hé bái chī). Please note that this translation may carry a negative connotation and might be offensive, so it's essential to use it with caution and in appropriate contexts.
 
-
-
-
-User
-callous action
-ChatGPT
+# callous action
 The term "callous action" can be translated into Chinese as "冷酷的行为" (lěngkù de xíngwéi).
 
-
-
-
-User
-steeped in in chinese
-ChatGPT
+# steeped in
 The phrase "steeped in" can be translated into Chinese as "充满，浸透" (chōngmǎn, jìntòu) or "深深沉浸于" (shēnshēn chénjìn yú).
 
-
-
-
-User
-Edison was no naïve tinkerer or unworldly egghead
-ChatGPT
-Edison was no naïve tinkerer or unworldly egghead.
-
+# Edison was no naïve tinkerer or unworldly egghead
 爱迪生并不是一个天真的修补匠或不谙世事的书呆子。
 
-
-
-
-User
-cupping his face in her hands
-ChatGPT
-cupping his face in her hands
-
+# cupping his face in her hands
 用双手托住他的脸
 
-
-
-
-User
-gung ho
-ChatGPT
+# gung ho
 "gung ho" is a term of Chinese origin that means enthusiastic, eager, or zealous, especially in pursuing a goal or mission. The term comes from the Mandarin Chinese phrase "gōng hé" (工合), which translates to "work together." It was popularized as a slogan by U.S. Marine Lieutenant Colonel Evans Carlson during World War II and has since become part of the English language.
 
 
 
 
-User
-gushes about
-ChatGPT
+# gushes about
 "Gushes about" means to speak or write with great enthusiasm or excitement about someone or something. It implies expressing admiration, praise, or positive feelings in an effusive manner.
 
-
-
-
-User
-tics
-ChatGPT
+# tics
 Tics are sudden, rapid, repetitive movements or sounds that some people make involuntarily. These can include movements such as blinking, shoulder shrugging, or vocal sounds like throat clearing or grunting. Tics are common and can be temporary or chronic. In some cases, they are associated with conditions like Tourette syndrome.
 
-
-
-
-User
-short section
-ChatGPT
+# short section
 "Short section" refers to a brief part or segment of something, such as a text, document, or piece of music. It implies a portion that is concise and not lengthy.
 
-
-
-
-User
-deflecting the feedback with blame
-ChatGPT
+# deflecting the feedback with blame
 "Deflecting the feedback with blame" refers to the act of redirecting criticism or negative feedback by placing the responsibility or fault on someone else rather than accepting it oneself. It's a defensive mechanism used to avoid taking accountability for a situation.
 
-
-
-
-User
-even in jest in chinese
-ChatGPT
+# even in jest
 "Even in jest" in Chinese can be translated as "即便是开玩笑也".
 
-
-
-
-User
-budding techie
-ChatGPT
+# budding techie
 "Budding techie" can be translated to Chinese as "初露头角的技术控" (Chūlù tóujiǎo de jìshù kòng).
 
-
-
-
-User
-aghast
-ChatGPT
+# aghast
 "Aghast" can be translated to Chinese as "吃惊的" (chī jīng de).
 
-
-
-
-User
-tales of the tape
-ChatGPT
+# tales of the tape
 "Tales of the tape" is an idiomatic expression that refers to a detailed comparison or analysis, especially in sports or competitive situations. It can be translated to Chinese as "录音带的传说" (lùyīndài de chuánshuō) or simply "对比分析" (duìbǐ fēnxī), depending on the context.
 
-
-
-
-User
-varsity team
-ChatGPT
+# varsity team
 "Varsity team" can be translated to Chinese as "大学代表队" (dàxué dàibiǎoduì) or simply "代表队" (dàibiǎoduì) depending on the context.
 
-
-
-
-User
-bulging out
-ChatGPT
+# bulging out
 "Bulging out" can be translated to Chinese as "凸出" (tūchū).
 
-
-
-
-User
-taped to her locker as a motivator
-ChatGPT
+# taped to her locker as a motivator
 "Taped to her locker as a motivator" can be translated to Chinese as "贴在她储物柜上作为激励".
 
-
-
-
-User
-dunking championship
-ChatGPT
+# dunking championship
 "Dunking championship" can be translated to Chinese as "扣篮锦标赛" (kòu lán jǐn biāo sài).
 
-
-
-
-User
-
-Where have you been all my life?
-ChatGPT
+# Where have you been all my life?
 "Where have you been all my life?" can be translated to Chinese as "你一直在我生命中的哪里？" (Nǐ yīzhí zài wǒ shēngmìng zhōng de nǎlǐ?).
 
-
-
-
-User
-They’d believe her because he was always a guy with a lot going for him.
-ChatGPT
+# They’d believe her because he was always a guy with a lot going for him.
 "They’d believe her because he was always a guy with a lot going for him." can be translated to Chinese as "他们会相信她，因为他一直是个前途无量的人。" (Tāmen huì xiāngxìn tā, yīnwèi tā yīzhí shì gè qiántú wúliàng de rén.)
 
-
-
-
-User
-tagalong
-ChatGPT
+# tagalong
 "Tagalong" can be translated to Chinese as "跟班" (gēn bān) or "跟屁虫" (gēn pì chóng).
 
-
-
-
-User
-pooh-poohed
-ChatGPT
+# pooh-poohed
 "Pooh-poohed" can be translated to Chinese as "嘲笑" (cháoxiào) or "不屑一顾" (bù xiè yī gù).
 
-
-
-
-User
-throw their hats right into the ring.
-ChatGPT
+# throw their hats right into the ring.
 "Throw their hats right into the ring" means to announce one's intention to compete or participate in something, especially a competition or election. In Chinese, it can be translated as "毫不犹豫地加入" (háo bù yóu yù de jiārù) or "义无反顾地参与" (yì wú fǎn gù de cānyù).
 
-
-
-
-User
-throw their hats right into the ring.
-ChatGPT
-
-
-
-User
-lashed out
+# lashed out
 ChatGPT
 "Lashed out" in Chinese can be translated as "发泄" (fāxiè) or "出言不逊" (chū yán bù xùn), depending on the context.
 
-
-
-
-User
-buoy themselves up
-ChatGPT
+# buoy themselves up
 "Buoy themselves up" can be translated to "鼓舞士气" (gǔwǔ shìqì) in Chinese.
 
-
-
-
-User
-mindset
-ChatGPT
+# mindset
 "Mindset" can be translated to "心态" (xīntài) in Chinese.
 
-
-
-
-User
-dropping out
-ChatGPT
+# dropping out
 "Dropping out" can be translated to "辍学" (chuòxué) in Chinese.
 
-
-
-
-User
-en route
-ChatGPT
+# en route
 "En route" can be translated to "在路上" (zài lù shàng) in Chinese.
 
-
-
-
-User
-so-and-so
-ChatGPT
+# so-and-so
 "So-and-so" can be translated to "某某" (mǒu mǒu) in Chinese, used to refer to an unspecified or unknown person.
 
-
-
-
-User
-
-they once had an eighty- eight-game winning streak.
-ChatGPT
+# they once had an eighty-eight-game winning streak.
 In Chinese, "they once had an eighty-eight-game winning streak" can be translated as "他们曾经有过88场连胜" (tāmen céngjīng yǒuguò 88 chǎng liánshèng).
 
-
-
-
-User
-No sooner had he hung up than the call from Minnesota came.
-ChatGPT
+# No sooner had he hung up than the call from Minnesota came.
 In Chinese, "No sooner had he hung up than the call from Minnesota came" can be translated as "他刚刚挂断电话，就接到了来自明尼苏达的电话" (tā gānggāng guà duàn diànhuà, jiù jiēdàole láizì mínnísūdá de diànhuà).
 
-
-
-
-User
-我给你指路 into English
-ChatGPT
-"I will show you the way."
-
-
-
-
-User
-打出租的时候，告诉司机可以给他指路怎么用英文表达
-ChatGPT
-"When taking a taxi, tell the driver that you can give directions."
-
-
-
-
-User
-made him the toast of England
-ChatGPT
 Made him extremely popular in England.
 
-
-
-
-User
-dote on past in chinese
-ChatGPT
+# dote on past in chinese
 "dote on past" in Chinese can be translated as "溺爱过去" (nì ài guòqù).
 
-
-
-
-User
-under your spell 
-ChatGPT
+# under your spell 
 "Under your spell" in Chinese can be translated as "在你的魔咒下" (zài nǐ de mó zhòu xià).
 
-
-
-
-User
-exotic incense wafted through special vents.
-ChatGPT
+# exotic incense wafted through special vents.
 异国情调的香味从特殊通风口飘荡而出。
 
-
-
-
-User
-hypochondria and the vapors
-ChatGPT
+# hypochondria and the vapors
 "Hypochondria and the vapors" refer to historical terms used to describe certain medical conditions and symptoms. "Hypochondria" generally refers to excessive worry about having a serious illness, despite having no or only mild symptoms. "The vapors" historically referred to a variety of mental or physical symptoms, often associated with fainting or emotional distress, especially in women.
-
-In Chinese:
 
 "忧郁症和呕吐物" (yōuyù zhèng hé ǒutù wù) - Hypochondria and the vapors
 
 
-
-User
-paper over
-ChatGPT
+# paper over
 "Paper over" is an idiom that means to conceal or cover up a problem or difficulty without solving it properly. It implies a temporary solution that doesn't address the underlying issues.
-
-In Chinese:
 
 掩盖问题 (yǎngài wèntí) - Paper over the problem
 
-
-
-User
-Mindsets frame the running account that’s taking place in people’s heads. 
-ChatGPT
-In Chinese:
-
+# Mindsets frame the running account that’s taking place in people’s heads. 
 思维模式构成了人们内心进行的持续性思考过程。 (Sīwéi móshì gòuchéng le rénmen nèixīn jìnxíng de chíxù xìng sīkǎo guòchéng.)
 
-
-
-User
-Stardom shouldn’t be so taxing
-ChatGPT
+# Stardom shouldn’t be so taxing
 In Chinese: 明星生活不应该那么辛苦。 (Míngxīng shēnghuó bù yīnggāi nàme xīnkǔ.)
 
+# Effort Gone Awry
 
-
-
-User
-Ef fort Gone Awry
-ChatGPT
-It seems like your message is incomplete or unclear. Could you please provide more context or clarify your request?
-
-
-
-
-User
-a high-stakes test
-ChatGPT
+# a high-stakes test
 "A high-stakes test" refers to an important and consequential examination or assessment that has significant implications, often in academic or professional contexts.
 
-
-
-
-User
-lash out at others
-ChatGPT
+# lash out at others
 "Lash out at others" means to express anger, criticism, or blame in a sudden and harsh manner towards other people. It often involves speaking or behaving aggressively or defensively due to frustration, stress, or other emotional triggers.
 
-
-
-
-User
-
-Some complain of the slights which are put upon them by relations, and they will tell you sadly of how many evils their old age is the cause.  in chinese
-ChatGPT
+# Some complain of the slights which are put upon them by relations, and they will tell you sadly of how many evils their old age is the cause.
 一些人抱怨受到了亲戚们的冷落，他们会悲伤地告诉你，他们的老年时期引发了多少问题。
 
-
-
-
-User
-be aping the author of the proscriptions
-ChatGPT
-在模仿《诏令》的作者
-
-
-
-
-User
-be aping the author of the proscriptions
-ChatGPT
 模仿《诏令》的作者
 
-
-
-
-User
-dissolute wastrels
-ChatGPT
+# dissolute wastrels
 放荡不羁的浪荡子。
 
-
-
-
-User
-forbidding the use of litters
-ChatGPT
+# forbidding the use of litters
 禁止使用轿子。
 
-
-
-
-User
-crass exultation
-ChatGPT
+# crass exultation
 肆意欢欣。
 
-
-
-
-User
-outlying pickets
-ChatGPT
+# outlying pickets
 外围哨兵。
 
-
-
-
-User
-The conspirators struck when they did
-ChatGPT
+# The conspirators struck when they did
 阴谋者在选择时机时发动了袭击。
 
-
-
-
-User
-wreak havoc
-ChatGPT
+# wreak havoc
 在中文中，"wreak havoc" 可以翻译为 "肆虐" 或者 "造成混乱"。
 
-
-
-
-User
-taken some toll on his system
-ChatGPT
+# taken some toll on his system
 这句话可以翻译为："对他的身体造成了一些损害"。
 
-
-
-
-User
-a ballpark figure
-ChatGPT
+# a ballpark figure
 "a ballpark figure" refers to an approximate or rough estimate of a number or amount. In Chinese, it can be translated as "估算值" or "大致数值".
 
-
-
-
-User
-a ballpark figure
-ChatGPT
-In Chinese, "a ballpark figure" can be translated as "估算值" (gūsuàn zhí) or "大致数值" (dàzhì shùzhí).
-
-
-
-
-User
- he was a sullen and brooding presence, lost in a private anguish that I could sense only dimly
-ChatGPT
-In this context, the phrase "a sullen and brooding presence, lost in a private anguish that I could sense only dimly" can be translated into Chinese as:
-
+# he was a sullen and brooding presence, lost in a private anguish that I could sense only dimly
 "他是一个愠怒和忧郁的存在，沉浸在我只能隐约感知到的私人痛苦中。" (Tā shì yīgè yùnnù hé yōuyù de cúnzài, chénjìn zài wǒ zhǐ néng yǐn yuè gǎnzhī dào de sīrén tòngkǔ zhōng.)
 
+# as if a wire had been tripped in his brain
+"仿佛他脑中的一根电线被触发了一样。" 
 
+# good news triggered uncontained outbursts of joy, often extinguished only through increasingly acrobatic bouts of physical exercise, while bad news plunged him into inconsolable desolation.
+"好消息触发了无法抑制的喜悦，常常只能通过越来越高难度的体育锻炼才能缓解，而坏消息则使他陷入了无法安慰的绝望之中。" 
 
+# they knew, had split apart not just nations, but also minds; in Saadat Hasan Manto’s “Toba Tek Singh”—arguably the best-known short story of Partition— the hero, a lunatic caught on the border between India and Pakistan, also inhabits a limbo between sanity and insanity.
+"他们知道，分裂的不仅仅是国家，还有人们的心灵；在Saadat Hasan Manto的《托巴泰克辛格》——可以说是印巴分治时期最著名的短篇小说中——主人公，一个被困在印度和巴基斯坦边界的疯子，也生活在正常与疯狂之间的无间地带。" 
 
-User
- as if a wire had been tripped in his brain
-ChatGPT
-In this context, the phrase "as if a wire had been tripped in his brain" can be translated into Chinese as:
-
-"仿佛他脑中的一根电线被触发了一样。" (Fǎngfú tā nǎozhōng de yīgē diànxiàn bèi chùfā le yīyàng.)
-
-
-
-
-User
-good news triggered uncontained outbursts of joy, often extinguished only through increasingly acrobatic bouts of physical exercise, while bad news plunged him into inconsolable desolation.
-ChatGPT
-In Chinese, the sentence "good news triggered uncontained outbursts of joy, often extinguished only through increasingly acrobatic bouts of physical exercise, while bad news plunged him into inconsolable desolation" can be translated as:
-
-"好消息触发了无法抑制的喜悦，常常只能通过越来越高难度的体育锻炼才能缓解，而坏消息则使他陷入了无法安慰的绝望之中。" (Hǎo xiāoxī chùfā le wúfǎ yìzhì de xǐyuè, chángcháng zhǐ néng tōngguò yuè lái yuè gāonándù de tǐyù duànliàn cáinéng huǎnjiě, ér huài xiāoxī zé shǐ tā xiànrù le wúfǎ ānwèi de juéwàng zhī zhōng.)
-
-
-
-
-User
-they knew, had split apart not just nations, but also minds; in Saadat Hasan Manto’s “Toba Tek Singh”—arguably the best-known short story of Partition— the hero, a lunatic caught on the border between India and Pakistan, also inhabits a limbo between sanity and insanity.
-ChatGPT
-In Chinese, the sentence "they knew, had split apart not just nations, but also minds; in Saadat Hasan Manto’s “Toba Tek Singh”—arguably the best-known short story of Partition— the hero, a lunatic caught on the border between India and Pakistan, also inhabits a limbo between sanity and insanity" can be translated as:
-
-"他们知道，分裂的不仅仅是国家，还有人们的心灵；在Saadat Hasan Manto的《托巴泰克辛格》——可以说是印巴分治时期最著名的短篇小说中——主人公，一个被困在印度和巴基斯坦边界的疯子，也生活在正常与疯狂之间的无间地带。" (Tāmen zhīdào, fēnliè de bù jǐnjǐn shì guójiā, hái yǒu rénmen de xīnlíng; zài Saadat Hasan Manto de "Tuōbā Tài Kè Xīnghé"——kěyǐ shuō shì yìnbā fēnzhì shíqī zuì zhùmíng de duǎn piān xiǎoshuō zhōng——zhǔ rén gōng, yīgè bèi kùn zài yìndù hé bājīsītǎn biānjiè de fēngzi, yě shēnghuó zài zhèngcháng yǔ fēngkuáng zhī jiān de wújiān dìdài.)
-
-Please note that the translation of the title "Toba Tek Singh" is transliterated into Chinese characters as "托巴泰克辛格" (Tuōbā Tài Kè Xīnghé).
-
-
-
-
-User
-a volley of paranoid hallucinations
-ChatGPT
+# a volley of paranoid hallucinations
 In Chinese, "a volley of paranoid hallucinations" can be translated as "一连串的妄想症幻觉" (Yīliánchuàn de wàngxiǎngzhèng huànjué).
 
-
-
-
-User
-until my grandmother had ferreted him out.
-ChatGPT
+# until my grandmother had ferreted him out.
 在我祖母找出他之前。
 
-
-
-
-User
-dropped out of the blue
-ChatGPT
+# dropped out of the blue
 突如其来地退出
 
-
-
-
-User
-the shining pinpricks of light in each eye
-ChatGPT
+# the shining pinpricks of light in each eye
 眼中闪烁的亮点
 
-
-
-
-User
-My father had had at least two psychotic fugues in his life—both precipitated by the consumption of bhang (mashed-up cannabis buds, melted in ghee, and churned into a frothing drink for religious festivals
+# My father had had at least two psychotic fugues in his life—both precipitated by the consumption of bhang (mashed-up cannabis buds, melted in ghee, and churned into a frothing drink for religious festivals
 ChatGPT
 我父亲至少有两次精神错乱，都是因为食用大麻（将捣碎的大麻花朵加入酥油中，搅拌成起泡沫的饮料，在宗教节日饮用）引发的。
 
+# pinning down
 
-
-
-User
-pinning down
-ChatGPT
-"Pinning down" can mean physically holding someone down or figuratively capturing and defining a concept or idea. Could you please provide more context or specify how you would like the phrase to be used?
-
-
-
-
-User
-the intimate history
-ChatGPT
+# the intimate history
 "The intimate history" suggests a close or personal account of historical events, experiences, or relationships. It refers to a narrative that delves deeply into personal or private aspects of a person, group, or period in history. If you have a specific context or request related to this phrase, please let me know!
 
-
-
-
-User
-in chinese
-ChatGPT
-"Intimate history" in Chinese can be translated as "亲近历史" (qīnjìn lìshǐ).
-
-
-
-
-User
-There is a second issue at stake here
-ChatGPT
+# There is a second issue at stake here
 In this context, "There is a second issue at stake here" can be translated to Chinese as "这里还有第二个问题" (zhèli hái yǒu dì èr gè wèntí).
 
-
-
-
-User
-The gene, meanwhile, invades discourses concerning race, racial discrimination, and “racial intelligence,” and provides startling answers to some of the most potent questions coursing through our political and cultural realms. It reorganizes our understanding of sexuality, identity, and choice, thus piercing the center of some of the most urgent questions coursing through our personal realms.III
-ChatGPT
+# The gene, meanwhile, invades discourses concerning race, racial discrimination, and “racial intelligence,” and provides startling answers to some of the most potent questions coursing through our political and cultural realms. It reorganizes our understanding of sexuality, identity, and choice, thus piercing the center of some of the most urgent questions coursing through our personal realms.III
 这里涉及到的基因同时也介入了关于种族、种族歧视和“种族智力”的话语，并为贯穿我们政治和文化领域的一些最重要问题提供了令人震惊的答案。它重新构建了我们对性取向、身份和选择的理解，因此深入到了我们个人领域的一些最紧迫问题的核心。 III
 
-
-
-
-User
-She weathered the buffets of history with resilience
-ChatGPT
+# She weathered the buffets of history with resilience
 她以顽强的韧性经受住了历史的冲击。
 
-
-
-
-User
-brier-patch
-ChatGPT
+# brier-patch
 Brier-patch refers to a thorny, tangled, and difficult situation or problem. It originates from the Uncle Remus stories by Joel Chandler Harris, where Br'er Rabbit pleads not to be thrown into the brier-patch by Br'er Fox, only to find out that the brier-patch is his natural habitat, and he escapes unharmed. The phrase is often used to describe a situation that someone finds unexpectedly advantageous or comfortable, despite its initial appearance of being difficult or challenging.
 
-
-
-
-User
-He was disciplined, plodding, deferential—a man of habits among men in habits
-ChatGPT
+# He was disciplined, plodding, deferential—a man of habits among men in habits
 "He was disciplined, plodding, deferential—a man of habits among men in habits" describes someone who is methodical, cautious, and respectful, fitting into societal norms and routines.
 
-
-
-
-User
-in chinese
-ChatGPT
 他循规蹈矩、踏实肯干，是众人中的一个守旧者。
 
-
-
-
-User
-As the
- 
-audience on the platform listened in disbelief, a higher note came from the train as it approached, and a lower note emanated as it sped away.
+# As the audience on the platform listened in disbelief, a higher note came from the train as it approached, and a lower note emanated as it sped away.
 ChatGPT
 当站台上的观众不敢相信地倾听时，火车发出了一个更高的音符，随着它的接近，而当它迅速离去时，则传来了一个较低的音符。
 
-
-
-
-User
-Holed up in a room above a tobacconist’s shop on Sidney Street, 
-ChatGPT
+# Holed up in a room above a tobacconist’s shop on Sidney Street, 
 藏身在悉尼街（Sidney Street）一个烟草店楼上的房间里，
 
-
-
-
-User
-battered relics
-ChatGPT
+# battered relics
 破旧的遗物
 
-
-
-
-User
-million paper cuts
-ChatGPT
+# million paper cuts
 百万次的纸上划痕
 
-
-
-
-User
-rewrite "1. Add comments to showcases as Presight developers asked.
-2. Fix crashes Presight developers encountered.
-3. Create a showcase to demonstrate how to define a filter as Presight developers asked.
-4. Create a showcase to demonstrate how to use symbol layer to satisfy in case of colliding as Presight developers asked."
-ChatGPT
-Address Presight developers' requests by adding comments to the showcases.
-Resolve crashes experienced by Presight developers.
-Develop a showcase illustrating how to define a filter, meeting the requirements of Presight developers.
-Create a showcase demonstrating the use of symbol layers to handle collisions, as requested by Presight developers.
-
-
-
-User
-dull pain
-ChatGPT
+# dull pain
 "Dull pain" refers to a discomfort or ache that is not sharp or severe. It is a persistent, mild, and often lingering discomfort that can be characterized as an ache or soreness.
 
-
-
-
-User
-not a chance
-ChatGPT
+# not a chance
 "Not a chance" is an informal way of expressing strong disagreement or disbelief, indicating that something is absolutely not possible or likely to happen.
 
-
-
-
-User
-set up camp
-ChatGPT
+# set up camp
 "Set up camp" means to establish a campsite, arranging tents, equipment, and other necessities for camping. It can also be used metaphorically to mean settling into a place or situation for an extended period.
 
-
-
-
-User
-take first watch in chinese
-ChatGPT
+# take first watch in chinese
 "Take first watch" in Chinese can be translated as "第一班值夜" (dì yī bān zhí yè) or "第一轮值夜" (dì yī lún zhí yè).
 
-
-
-
-User
-nanny
-ChatGPT
+# nanny
 "Nanny" in Chinese can be translated as "保姆" (bǎomǔ) or "奶妈" (nǎimā).
 
-
-
-
-User
-cut him off his followers
-ChatGPT
+# cut him off his followers
 "Cut him off from his followers" can be translated to Chinese as "与他的追随者断绝联系" (yǔ tā de zhuīsuízhě duànwò liánxì).
 
-
-
-
-User
-speciation in chinese
-ChatGPT
-
-1 / 2
-
+# speciation in chinese
 "Speciation" can be translated to Chinese as "物种形成" (wùzhǒng xíngchéng).
 
+# crop-tailed
 
+# tacking south of heresy
 
-
-User
-crop-tailed
-ChatGPT
-The term "crop-tailed" does not have a specific translation in Chinese. If you are referring to a specific context or phrase, please provide more context so I can assist you accurately.
-
-
-
-
-User
-tacking south of heresy
-ChatGPT
-"Tacking south of heresy" is a metaphorical phrase and doesn't have a direct translation in Chinese. Translating metaphors can be complex, and the meaning may need to be conveyed differently in the target language. If you have a specific context in which you want to use this phrase, please provide more details, and I can help you formulate an appropriate translation.
-
-
-
-
-User
-Thomas Malthus had been a curate at the Okewood Chapel in Surrey by daytime, but he was a closet economist by night. 
-ChatGPT
+# Thomas Malthus had been a curate at the Okewood Chapel in Surrey by daytime, but he was a closet economist by night. 
 "Thomas Malthus白天是Surrey的Okewood Chapel的副神父，但晚上是一个隐藏的经济学家。"
 
-
-
-
-User
-Sisyphus moving from one famine to the next.
-ChatGPT
+# Sisyphus moving from one famine to the next.
 西西弗斯从一个饥荒走向下一个。
 
-
-
-
-User
-One’s imagination must fill up very wide blanks.
-ChatGPT
+# One’s imagination must fill up very wide blanks.
 一个人的想象力必须填补非常宽广的空白。
 
-
-
-
-User
-isolator
-ChatGPT
+# isolator
 "Isolator" in Chinese can be translated as "隔离器" (gélíqì).
 
-
-
-
-User
-gemmules 
-ChatGPT
+# gemmules 
 "Gemmules" is a term coined by Charles Darwin to describe hypothetical particles representing hereditary information. There isn't a direct translation for "gemmules" in Chinese, but it can be explained or rendered using the characters "基因粒子" (jīyīn lìzǐ) which mean "gene particles."
 
-
-
-
-User
-my account is debited
-
-ChatGPT
-"我的账户被扣款了" (wǒ de zhànghù bèi kòu kuǎn le) in Chinese.
-
-
-
-
-User
-The anther and the stamen mature inside the flower’s clasplike keel,
-ChatGPT
+# The anther and the stamen mature inside the flower’s clasplike keel,
 花药和雄蕊在花朵的夹瓣式龙骨内成熟。
-
-
-
-
-
-Regenerate
-Send a message
-
-Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts. ChatGPT September 25 Version
-
-?
-
