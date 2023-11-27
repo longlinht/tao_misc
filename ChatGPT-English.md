@@ -1610,6 +1610,7 @@ This phrase conveys the idea that the individuals in question are proceeding wit
 
 
 # one heck of a hard course
+
 The expression "one heck of a hard course" is an informal way of emphasizing that a course or task is extremely challenging or difficult. It uses "heck" as a mild expletive to intensify the description.
 
 In Chinese, you can translate it as:
