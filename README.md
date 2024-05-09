@@ -1,3 +1,151 @@
+trailer
+
+poster
+
+hit the internet
+
+you're kidding
+
+have the privilege
+
+a flood of 
+
+walking out on
+
+runway show
+
+plaything
+
+why write to the death
+
+be no stranger to sth
+
+Rememberance Day
+
+scatter
+
+toast of the town
+
+stalk
+
+stutter
+
+half the time = very often
+
+shitty grades
+
+gala
+
+we've talking things out
+
+a walking dictionary
+
+dental floss
+
+person belongings
+
+ticket booth
+
+be obsessed with
+
+mustardy yellow
+
+blush
+
+our actions speak louder then words
+
+Be careful what you wish for
+
+my jaw was on the floor
+
+set out to do sth
+
+rip off
+
+strike out on one's own
+
+childhood trauma
+
+emotional trauma
+
+moat 
+drawbridge 
+castle
+
+gang up on 
+
+seal the deal
+
+it is on sb 归咎于某人
+
+be holden to  受惠于
+
+Princeton is like 5 hours away by train
+
+at this juncture 在此关键时刻
+
+be supposed to 本该
+
+that is how that supposed to
+
+sho sb. in a good light 使人展现出好形象
+
+make the cut
+
+re-binge 重刷
+
+stay late 熬夜
+
+count me out 别算上我
+
+make the cut 入围
+
+hold thy tougue 闭嘴
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 feces, bile, phlegm, pus, blood, sweat, fat, tears, skin-oil, saliva, mucus, fluid in the joints, urine.
 
 spoiled, selfish, unkind

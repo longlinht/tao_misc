@@ -1,0 +1,453 @@
+https://github.com/neo4j/NaLLM
+https://github.com/neo4j-partners/neo4j-generative-ai-google-cloud/tree/main
+https://github.com/KemalGunay/LLM_OpenAI_Neo4j_Graph_From_Text/tree/main
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. How many SU-25s’s have been delivered to the Russian Air Force?
+
+no records
+
+2. What type of missile is a RVV-MD?
+
+match(e:Equipment)-[:ROLE]->(c:Classification)  where e.label="RVV‐MD" return c.label;
+
+╞══════════════════╡
+│"Anti-aircraft"   │
+├──────────────────┤
+│"Combat/offensive"│
+└──────────────────┘
+
+3. What is the Max Fuel Weight of the SU-25s?
+
+no records
+
+4. Where are the 22nd Fighter Aviation Regiment of the Russian air force located?
+
+match(o:Organization)-[r]->(l:Location)  where o.label="22nd Fighter Aviation Regiment" return l.label
+
+╞════════════════════╡
+│"Russian Federation"│
+└────────────────────┘
+
+5. What is a AB-250?
+
+match(e:Equipment)-[r]->(c:Classification)  where e.label="AB-250" return c.description;
+
+╒══════════════════════════════════════════════════════════════════════╕
+│c.description                                                         │
+╞══════════════════════════════════════════════════════════════════════╡
+│"General bombardment weapons such as unguided rocket systems, not nece│
+│ssarily targeted at destroying specific pieces of equipment."         │
+├──────────────────────────────────────────────────────────────────────┤
+│"Providing offensive capabilities for engaging the enemy and causing d│
+│amage or disruption. Includes conventional weaponry as well as electro│
+│nic forms of attack"                                                  │
+├──────────────────────────────────────────────────────────────────────┤
+│"The piece of equipment/system, when operational, operates while airbo│
+│rne"                                                                  │
+├──────────────────────────────────────────────────────────────────────┤
+│"Operates from an airborne platform targeting/surveilling sea- (surfac│
+│e) or land-based targets"                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│"Covering weapons and countermeasures. To include, but not limited to │
+│guns, missiles, rockets, bombs torpedoes, mines, as well as munitions │
+│and physical countermeasure launchers"                                │
+├──────────────────────────────────────────────────────────────────────┤
+│"Air dropped munition, may have guidance and flight control surfaces b│
+│ut no propulsion"                                                     │
+├──────────────────────────────────────────────────────────────────────┤
+│"Government run organisations that fall under the military chain of co│
+│mmand"                                                                │
+└──────────────────────────────────────────────────────────────────────┘
+
+6. What is the role of a SU-35s?
+
+match(e:Equipment)-[r:ROLE]->(c:Classification)  where e.label="Su-35S" return c.description;
+
+╞══════════════════════════════════════════════════════════════════════╡
+│"Aircraft used to deliver large bomb loads for strategic or tactical p│
+│urposes. Can deploy stand-off weapons (such as cruise missiles) as wel│
+│l as precision guided weapons or conventional bombs. Weapons usually c│
+│arried in an internal weapons bay. May have defensive aids suites but │
+│would have very limited capability in air-to-air combat."             │
+├──────────────────────────────────────────────────────────────────────┤
+│"Providing offensive capabilities for engaging the enemy and causing d│
+│amage or disruption. Includes conventional weaponry as well as electro│
+│nic forms of attack"                                                  │
+├──────────────────────────────────────────────────────────────────────┤
+│"Aircraft used for air-to-air combat, the most capable aircraft would │
+│be designed to oppose enemy fighters and would range from  air suprema│
+│cy aircraft (used to totally nullify an opposing force) through to air│
+│ superiority aircraft (used to seize control of airspace). Multirole f│
+│ighters are capable of air-to-air combat but are not optimised for it.│
+│"                                                                     │
+└──────────────────────────────────────────────────────────────────────┘
+
+7. List the events the SU-35S has been involved with in Ukraine?
+
+match(e:Event)-[r]->(l:Location) where l.label="Ukraine" return e.description;
+
+╞══════════════════════════════════════════════════════════════════════╡
+│"A Russian Su-35S appears to have been shot down in the KHERSON OBLAST│
+│. Ukrainian officials have claimed responsibility for the shootdown wh│
+│ile some pro-Russian sources are reporting the aircraft was downed by │
+│Russian air defences. Russian forces deployed an Mi-24 to conduct sear│
+│ch and rescue following the shootdown."                               │
+├──────────────────────────────────────────────────────────────────────┤
+│"The Ukrainian Ministry of Defence reports that Russian Su-35 were use│
+│d to conduct strikes against Ukrainian targets in KLYNOVE. The Ukraini│
+│ans also claim Orlan-10 were used to provide the aircraft with targeti│
+│ng data."                                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│"The Ukrainian Ministry of Defence reports that Russian Su-35 were use│
+│d to conduct strikes against Ukrainian targets in SOLEDAR. The Ukraini│
+│ans also claim Orlan-10 were used to provide the aircraft with targeti│
+│ng data."                                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│"The Ukrainian Ministry of Defence reports that Russian Su-35 were use│
+│d to conduct strikes against Ukrainian targets in BAKHMUT. The Ukraini│
+│ans also claim Orlan-10 were used to provide the aircraft with targeti│
+│ng data."                                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│"The Ukrainian Ministry of Defence reports that Russian Su-35 were use│
+│d to conduct strikes against Ukrainian targets in VOVCHOYARIVKA. The U│
+│krainians also claim Orlan-10 were used to provide the aircraft with t│
+│argeting data."                                                       │
+├──────────────────────────────────────────────────────────────────────┤
+│"The Ukrainian Ministry of Defence reports that Russian Su-35 were use│
+│d to conduct strikes against Ukrainian targets in SOLEDAR. The Ukraini│
+│ans also claim Orlan-10 were used to provide the aircraft with targeti│
+│ng data."                                                             │
+└──────────────────────────────────────────────────────────────────────┘
+
+8. What are the Synonyms of the SU-35S?
+
+no records
+
+9. What is the NATO name for the SU-35S?
+
+Flanker-E
+
+10. What two entities operate the SU-35S?
+
+match(e:Equipment)-[r:OPERATED_BY]->(o:Organization)  return o.label as entities limit 2;
+
+═════════════════════════════════╕
+│entities                         │
+╞═════════════════════════════════╡
+│"6th Air Brigade"                │
+├─────────────────────────────────┤
+│"929th State Flight Test Centre "│
+└─────────────────────────────────┘
+
+11. How long is the SU-35S?
+
+match(e:Equipment)-[r]->(s:Specification) where e.label="Su-35S" and s.label="Length, overall" return s.rendered_output as length;
+
+╒═══════════════════════════╕
+│length                     │
+╞═══════════════════════════╡
+│"21.90 m (71 ft 10 1/4 in)"│
+└───────────────────────────┘
+
+12. Who makes the SU-35S?
+
+match(o:Organization)-[r:MANUFACTURES]->(e:Equipment)  return o.label as manufacturer;
+
+╒═════════════════════════════════════╕
+│manufacturer                         │
+╞═════════════════════════════════════╡
+│"JSC Aviation Holding Company Sukhoi"│
+└─────────────────────────────────────┘
+
+13. What are the navigation systems used by the SU-35S?
+
+no records
+
+14. How many different types of missiles can be used by the SU-35S?
+
+return count{match(e:Equipment)-[:EQUIPMENT_TYPE]->(s:Classification) where s.label="Missile"} as missiles;
+
+╒════════╕
+│missiles│
+╞════════╡
+│14      │
+└────────┘
+
+15. What is the SU-35S?
+
+match(e:Equipment)-[:EQUIPMENT_TYPE]->(s:Classification) where e.label="Su-35S" return s.description as su35;
+
+╒══════════════════════════════════════════════════════════════════════╕
+│su35                                                                  │
+╞══════════════════════════════════════════════════════════════════════╡
+│"Fixed-wing aircraft that uses jet engines for propulsion (e.g.. turbo│
+│jet, turbofan)"                                                       │
+├──────────────────────────────────────────────────────────────────────┤
+│"Aircraft which for the majority of its flight achieves lift by being │
+│moved through the air generating a pressure differential using the sha│
+│pe of the aircraft's structure, it may hover for short periods using d│
+│ucted thrust for take off landing and manoeuvring."                   │
+├──────────────────────────────────────────────────────────────────────┤
+│"Vehicle or vessel a designed to carry people, and/or cargo, and/or eq│
+│uipment, such as an installed weapon"                                 │
+└──────────────────────────────────────────────────────────────────────┘
+
+16. What unit operates the SU-35S in China?
+
+match(e:Equipment)-[r]->(o:Organization) where e.label="Su-35S" match(o)-[t]->(l:Location) where l.label="China" return o.label as unit
+
+╒═════════════════╕
+│unit             │
+╞═════════════════╡
+│"6th Air Brigade"│
+└─────────────────┘
+
+17. How many exercises has the SU-35S been involved in?
+
+return count{ match(e:Event) where e.description contains "Su-35S" and e.description contains "exercise" return e} as times
+
+╒═════╕
+│times│
+╞═════╡
+│17   │
+└─────┘
+
+18. List the Specifications of the SU-35S.
+
+match(e:Equipment)-[r]->(s:Specification) where e.label="Su-35S" return s.label as Specifications;
+
+╒═══════════════════════╕
+│Specifications         │
+╞═══════════════════════╡
+│"Rate of climb"        │
+├───────────────────────┤
+│"Wing span"            │
+├───────────────────────┤
+│"Max T-O weight"       │
+├───────────────────────┤
+│"Max payload"          │
+├───────────────────────┤
+│"Max level speed"      │
+├───────────────────────┤
+│"Max level speed"      │
+├───────────────────────┤
+│"Max wing loading"     │
+├───────────────────────┤
+│"Weight empty"         │
+├───────────────────────┤
+│"Range"                │
+├───────────────────────┤
+│"Landing run"          │
+├───────────────────────┤
+│"Max level Mach number"│
+├───────────────────────┤
+│"Wing aspect ratio"    │
+├───────────────────────┤
+│"T-O run"              │
+├───────────────────────┤
+│"g limits"             │
+├───────────────────────┤
+│"Range"                │
+├───────────────────────┤
+│"Max T-O weight"       │
+├───────────────────────┤
+│"Range"                │
+├───────────────────────┤
+│"Length, overall"      │
+├───────────────────────┤
+│"Height, overall"      │
+├───────────────────────┤
+│"Max fuel weight"      │
+├───────────────────────┤
+│"Max thrust loading"   │
+├───────────────────────┤
+│"Max fuel weight"      │
+├───────────────────────┤
+│"Wing span"            │
+├───────────────────────┤
+│"Service ceiling"      │
+├───────────────────────┤
+│"Gross wing area"      │
+├───────────────────────┤
+│"Max level Mach number"│
+└───────────────────────┘
+
+19. In total how many SU-35S’s are in service in the world?
+
+match(e:Inventory)-[r]->(t:Equipment) with collect(toInteger(e.total_in_service_inventory_total)) as list return apoc.coll.sum(list);
+
+╞══════╡
+│135.0 │
+└──────┘
+
+
+20. What Russian division is the 23rd Fights Aviation Regiment part of?
+
+match(o:Organization)-[:BRANCH]->(c:Classification) where o.label="23rd Fighter Aviation Regiment" return c.label;
+
+╞═══════════╡
+│"Air Force"│
+└───────────┘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++--------------------------+
+| label                    |
++--------------------------+
+| "Event"                  |
+| "Equipment"              |
+| "Installation"           |
+| "Organization"           |
+| "Location"               |
+| "Orbat"                  |
+| "Classification"         |
+| "Inventory"              |
+| "Specification"          |
+| "SpecificationCondition" |
+| "About"                  |
+| "ClassificationGroup"    |
+| "Image"                  |
+| "AssetUsage"             |
+| "News"                   |
+| "Profile"                |
+| "ProfileEquipment"       |
+| "EventEquipment"         |
++--------------------------+
+
+docker exec -it 7f180a2e10705dd522b006fcaefd1ccf804e94dfb3fb2853d0e318990baba20d /bin/sh
+
+MATCH (:Event)-[r]-()
+RETURN r;
+
+MATCH (n) RETURN distinct labels(n);
+
+Match (n:ClassificationGroup)-[r]->(m) return n,r,m;
+
+call db.labels();
+
+CALL apoc.export.json.query(
+    "MATCH (c:Classification) RETURN COLLECT(c)",
+    "classifications.json"
+)
+
+MATCH (c:Classification)
+WITH collect(c) AS c
+CALL apoc.export.csv.data(c, [], "classification.csv", {})
+YIELD file, source, format, nodes, relationships, properties, time, rows, batchSize, batches, done, data
+RETURN file, source, format, nodes, relationships, properties, time, rows, batchSize, batches, done, data
+
+LOAD CSV WITH HEADERS FROM "file:///group.csv" AS csvLine
+MERGE (g:ClassificationGroup {classificationGroupId: csvLine.classificationGroupId, classificationGroupLabel: csvLine.classificationGroupLabel, classificationId: csvLine.classificationsId});
+
+call db.schema.nodeTypeProperties();
+
+db.propertyKeys();
+
+call db.labels;
+
+
+LOAD CSV WITH HEADERS FROM "file:///relationships.csv" AS row
+MATCH (c:Classification {id:row.source_id}), (g:ClassificationGroup {classificationId:row.target_id})
+CREATE (c)-[:CLASSIFICATION_GROUP]->(g);
+
+MATCH (c:Classification)
+MATCH ()-[cg:CLASSIFICATION_GROUP]->()
+WITH collect(c) as a, collect(cg) as b
+CALL apoc.export.json.data(a, b, "classification_group.json", null)
+YIELD file, source, format, nodes, relationships, properties, time, rows, batchSize, batches, done, data
+RETURN file, source, format, nodes, relationships, properties, time, rows, batchSize, batches, done, data
+
+Match (n:Classification)-[r]->(m)
+WITH collect(n) as a, collect(r) as b, collect(m) as c
+CALL apoc.export.json.data(a, c, "classification.json", null)
+YIELD file, source, format, nodes, relationships, properties, time, rows, batchSize, batches, done, data
+RETURN file, source, format, nodes, relationships, properties, time, rows, batchSize, batches, done, data;
+
+
+docker run --hostname=7f180a2e1070 --mac-address=02:42:ac:11:00:02 --env=NEO4J_apoc_export_file_enabled=true --env=NEO4J_apoc_import_file_enabled=true --env=NEO4J_apoc_import_file_use__neo4j__config=true --env=NEO4J_PLUGINS=["apoc"] --env=PATH=/var/lib/neo4j/bin:/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin --env=JAVA_HOME=/opt/java/openjdk --env=NEO4J_SHA256=5de9518ceef86d3e87aeb513cb996f6f3f4dce11db5bb1d2308cab327deb9890 --env=NEO4J_TARBALL=neo4j-community-5.16.0-unix.tar.gz --env=NEO4J_EDITION=community --env=NEO4J_HOME=/var/lib/neo4j --volume=/Users/taohe/Downloads/neo4j-hetao4:/data/ --volume=/Users/taohe/Downloads/neo4j-hetao4:/plugins/ --volume=/data --volume=/logs --workdir=/var/lib/neo4j -p 7473 -p 7474 -p 7687 --runtime=runc -d neo4j:latest
+
+
+CALL apoc.export.json.query(
+    "MATCH (c)-[r:CLASSIFICATION_GROUP]->(d1) MATCH (c)-[r:PARENT_CLASSIFICATION]->(d2) return c.id as id, d1{.*}, d2{.*}",
+    "c-map.json",
+    {jsonFormat:"ARRAY_JSON"}
+)
+
+Match (n)-[r]->(m)
+
+Match (n: Classification) return n;
+
+
+
+
+
+docker run --hostname=7f180a2e1070 --env=NEO4J_apoc_export_file_enabled=true --env=NEO4J_apoc_import_file_enabled=true --env=NEO4J_apoc_import_file_use__neo4j__config=true --env=NEO4J_PLUGINS=["apoc"] --env=PATH=/var/lib/neo4j/bin:/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin --env=JAVA_HOME=/opt/java/openjdk --env=NEO4J_SHA256=5de9518ceef86d3e87aeb513cb996f6f3f4dce11db5bb1d2308cab327deb9890 --env=NEO4J_TARBALL=neo4j-community-5.16.0-unix.tar.gz --env=NEO4J_EDITION=community --env=NEO4J_HOME=/var/lib/neo4j --volume=/Users/taohe/Downloads/neo4j-hetao4:/data/ --volume=/Users/taohe/Downloads/neo4j-hetao4:/plugins/ --volume=/data --volume=/logs --workdir=/var/lib/neo4j -p 7473 -p 7474 -p 7687 --runtime=runc -d neo4j:latest
+
+docker run --hostname=2ed179d6da68 --mac-address=02:42:ac:11:00:02 --env=PATH=/var/lib/neo4j/bin:/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin --env=JAVA_HOME=/opt/java/openjdk --env=NEO4J_SHA256=5de9518ceef86d3e87aeb513cb996f6f3f4dce11db5bb1d2308cab327deb9890 --env=NEO4J_TARBALL=neo4j-community-5.16.0-unix.tar.gz --env=NEO4J_EDITION=community --env=NEO4J_HOME=/var/lib/neo4j --volume=/Users/taohe/Downloads/neo4j-hetao2:/data/ --volume=/Users/taohe/Downloads/neo4j-hetao2:/config/ --volume=/data --volume=/logs --workdir=/var/lib/neo4j -p 7473 -p 7474 -p 7687 --runtime=runc -d neo4j:latest
+
+
+
+
+
+
+
+
+
+
+
